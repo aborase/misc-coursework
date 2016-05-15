@@ -1,0 +1,4436 @@
+(lp0
+(dp1
+S'organization'
+p2
+S''
+p3
+sS'journal'
+p4
+S'ECOLOGY AND SOCIETY'
+p5
+sS'author'
+p6
+S'Sippel, Lauren M.'
+p7
+sS'year'
+p8
+I2015
+sS'address'
+p9
+S'VA Connecticut Healthcare Syst, Clin Neurosci Div, Natl Ctr Posttraumat Stress Disorder, West Haven, CT 06516 USA.'
+p10
+sa(dp11
+g2
+S'United States Geological Survey'
+p12
+sg4
+S'ECOLOGY AND SOCIETY'
+p13
+sg6
+S'Johnson, Fred A.'
+p14
+sg8
+I2015
+sg9
+S'US Geol Survey, Reston, VA 20192 USA.'
+p15
+sa(dp16
+g2
+S'Colorado State University'
+p17
+sg4
+S'ECOLOGY AND SOCIETY'
+p18
+sg6
+S'Fernandez-Gimenez, Maria E.'
+p19
+sg8
+I2015
+sg9
+S'Colorado State Univ, Dept Forest & Rangeland Stewardship, Ft Collins, CO 80523 USA.'
+p20
+sa(dp21
+g2
+S'Indiana University Bloomington;Indiana University System'
+p22
+sg4
+S'ECOLOGY AND SOCIETY'
+p23
+sg6
+S'Kreitmair, Ursula W.'
+p24
+sg8
+I2015
+sg9
+S'Indiana Univ, Bloomington, IN 47405 USA.'
+p25
+sa(dp26
+g2
+S'DePaul University'
+p27
+sg4
+S'CANADIAN JOURNAL OF SOCIOLOGY-CAHIERS CANADIENS DE SOCIOLOGIE'
+p28
+sg6
+S'Hancock, Black Hawk'
+p29
+sg8
+I2015
+sg9
+S'Depaul Univ, Sociol, Chicago, IL 60604 USA.'
+p30
+sa(dp31
+g2
+S'University of California Berkeley;University of California System'
+p32
+sg4
+S'INTERNATIONAL JOURNAL OF QUALITATIVE METHODS'
+p33
+sg6
+S'Rucks-Ahidiana, Zawadi'
+p34
+sg8
+I2015
+sg9
+S'Univ Calif Berkeley, Sociol, Berkeley, CA 94720 USA.'
+p35
+sa(dp36
+g2
+S'Columbia University'
+p37
+sg4
+S'JOURNAL OF ECONOMIC SOCIOLOGY-EKONOMICHESKAYA SOTSIOLOGIYA'
+p38
+sg6
+S'Phelps, Edmund'
+p39
+sg8
+I2015
+sg9
+S'Columbia Univ, Polit Econ, 420 West,118th St, New York, NY 10027 USA.'
+p40
+sa(dp41
+g2
+S'Saint Petersburg State University'
+p42
+sg4
+S'COMPARATIVE SOCIOLOGY'
+p43
+sg6
+S'Rezaev, Andrey V.'
+p44
+sg8
+I2015
+sg9
+S'St Petersburg State Univ, St Petersburg 199034, Russia.'
+p45
+sa(dp46
+g2
+S'University of Jyvaskyla'
+p47
+sg4
+S'COMPARATIVE SOCIOLOGY'
+p48
+sg6
+S'Kauppi, Niilo'
+p49
+sg8
+I2015
+sg9
+S'Univ Jyvaskyla, Dept Social Sci & Philosophy, SF-40351 Jyvaskyla, Finland.'
+p50
+sa(dp51
+g2
+S'Brown University'
+p52
+sg4
+S'DU BOIS REVIEW-SOCIAL SCIENCE RESEARCH ON RACE'
+p53
+sg6
+S'Itzigsohn, Jose'
+p54
+sg8
+I2015
+sg9
+S'Brown Univ, Dept Sociol, Maxcy Hall,Box 1916,108 George St, Providence, RI 02912 USA.'
+p55
+sa(dp56
+g2
+S'Northwestern University'
+p57
+sg4
+S'DU BOIS REVIEW-SOCIAL SCIENCE RESEARCH ON RACE'
+p58
+sg6
+S'Loughran, Kevin'
+p59
+sg8
+I2015
+sg9
+S'Northwestern Univ, Dept Sociol, 1810 Chicago Ave, Evanston, IL 60208 USA.'
+p60
+sa(dp61
+g2
+S'University of Denver'
+p62
+sg4
+S'DU BOIS REVIEW-SOCIAL SCIENCE RESEARCH ON RACE'
+p63
+sg6
+S'Berrey, Ellen'
+p64
+sg8
+I2015
+sg9
+S'Univ Denver, Dept Sociol & Criminol, Sturm Hall,Room 446,2000 E Asbury Ave,MSC 0942, Denver, CO 80208 USA.'
+p65
+sa(dp66
+g2
+S'Harvard University'
+p67
+sg4
+S'DU BOIS REVIEW-SOCIAL SCIENCE RESEARCH ON RACE'
+p68
+sg6
+S'Bobo, Lawrence D.'
+p69
+sg8
+I2015
+sg9
+S'Harvard Univ, Dept African & African Amer Studies, Cambridge, MA 02138 USA.'
+p70
+sa(dp71
+g2
+S'Florida State University System;University of Central Florida'
+p72
+sg4
+S'SOCIETY & ANIMALS'
+p73
+sg6
+S'Jacques, Jessica Racine'
+p74
+sg8
+I2015
+sg9
+S'Univ Cent Florida, Dept Sociol, Orlando, FL 32816 USA.'
+p75
+sa(dp76
+g2
+S'University of Southern California'
+p77
+sg4
+S'ROUTLEDGE HANDBOOK OF THE SOCIOLOGY OF SPORT'
+p78
+sg6
+S'Morgan, William J.'
+p79
+sg8
+I2015
+sg9
+S'Univ So Calif, Div Occupat Sci, Annenberg Sch Commun & Journalism, Los Angeles, CA 90033 USA.'
+p80
+sa(dp81
+g2
+S'University of Wisconsin Madison;University of Wisconsin System'
+p82
+sg4
+S'Annual Review of Law and Social Science, Vol 11'
+p83
+sg6
+S'Liu, Sida'
+p84
+sg8
+I2015
+sg9
+S'Univ Wisconsin, Dept Sociol, Madison, WI 53706 USA.'
+p85
+sa(dp86
+g2
+g3
+sg4
+S'BIOMED RESEARCH INTERNATIONAL'
+p87
+sg6
+S'Mascarenhas, Desmond D.'
+p88
+sg8
+I2015
+sg9
+S'Mayflower Org Res & Educ, Sunnyvale, CA 94085 USA.'
+p89
+sa(dp90
+g2
+S'Arizona State University'
+p91
+sg4
+S'ECOLOGY AND SOCIETY'
+p92
+sg6
+S'Perez, Irene'
+p93
+sg8
+I2015
+sg9
+S'Arizona State Univ, Ctr Behav Inst & Environm, Tempe, AZ 85287 USA.'
+p94
+sa(dp95
+g2
+S'Arizona State University'
+p96
+sg4
+S'ECOLOGY AND SOCIETY'
+p97
+sg6
+S'Manuel-Navarrete, David'
+p98
+sg8
+I2015
+sg9
+S'Arizona State Univ, Sch Sustainabil, Tempe, AZ 85287 USA.'
+p99
+sa(dp100
+g2
+S'University of Alaska Fairbanks;University of Alaska System'
+p101
+sg4
+S'ECOLOGY AND SOCIETY'
+p102
+sg6
+S'Cost, Douglas S.'
+p103
+sg8
+I2015
+sg9
+S'Univ Alaska Fairbanks, Fairbanks, AK 99775 USA.'
+p104
+sa(dp105
+g2
+S'University of Alaska Fairbanks;University of Alaska System'
+p106
+sg4
+S'ECOLOGY AND SOCIETY'
+p107
+sg6
+S'Bronen, Robin'
+p108
+sg8
+I2015
+sg9
+S'Univ Alaska Fairbanks, Fairbanks, AK 99775 USA.'
+p109
+sa(dp110
+g2
+S'Michigan State University'
+p111
+sg4
+S'HUMAN ECOLOGY REVIEW'
+p112
+sg6
+S'Kelly, Jennifer'
+p113
+sg8
+I2015
+sg9
+S'Michigan State Univ, Sociol & Specializat Anim Studies, E Lansing, MI 48824 USA.'
+p114
+sa(dp115
+g2
+S'California State University System;San Diego State University'
+p116
+sg4
+S'AMERICAN JOURNAL OF DRUG AND ALCOHOL ABUSE'
+p117
+sg6
+S'Stewart, Thomas Darryl'
+p118
+sg8
+I2015
+sg9
+S'San Diego State Univ, Ctr Alcohol & Drug Res, 5500 Campanile Dr, San Diego, CA 92182 USA.'
+p119
+sa(dp120
+g2
+S'Northeastern University'
+p121
+sg4
+S'SOCIOLOGICAL METHODOLOGY, VOL 45'
+p122
+sg6
+S"O'Brien, Daniel Tumminelli"
+p123
+sg8
+I2015
+sg9
+S'Northeastern Univ, Sch Publ Policy & Urban Affairs, 1135 Tremont St, Boston, MA 02120 USA.'
+p124
+sa(dp125
+g2
+S'University of Arizona'
+p126
+sg4
+S'SOCIOLOGICAL METHODOLOGY, VOL 45'
+p127
+sg6
+S'Abramson, Corey M.'
+p128
+sg8
+I2015
+sg9
+S'Univ Arizona, Univ Arizona Social Sci Bldg, Tucson, AZ 85721 USA.'
+p129
+sa(dp130
+g2
+S'University of Bristol'
+p131
+sg4
+S'THEORIES OF RACE AND ETHNICITY: CONTEMPORARY DEBATES AND PERSPECTIVES'
+p132
+sg6
+S'Banton, Michael'
+p133
+sg8
+I2015
+sg9
+S'Univ Bristol, Sociol, Bristol BS8 1TH, Avon, England.'
+p134
+sa(dp135
+g2
+S'University of Connecticut'
+p136
+sg4
+S'THEORIES OF RACE AND ETHNICITY: CONTEMPORARY DEBATES AND PERSPECTIVES'
+p137
+sg6
+S'Hughey, Matthew W.'
+p138
+sg8
+I2015
+sg9
+S'Univ Connecticut, Sociol, Storrs, CT 06269 USA.'
+p139
+sa(dp140
+g2
+S'Southern Illinois University;Southern Illinois University System'
+p141
+sg4
+S'AMERICAN JOURNAL OF CANCER RESEARCH'
+p142
+sg6
+S'Fogleman, Amanda J.'
+p143
+sg8
+I2015
+sg9
+S'So Illinois Univ, Sch Med, Populat Hlth Sci Program, Clin Res Ctr, 801 N Rutledge St,POB 19664, Springfield, IL 62794 USA.'
+p144
+sa(dp145
+g2
+S'Indiana University Bloomington;Indiana University System'
+p146
+sg4
+S'ADVANCES IN GROUP PROCESSES'
+p147
+sg6
+S'McLeod, Jane D.'
+p148
+sg8
+I2015
+sg9
+S'Indiana Univ, Dept Sociol, Bloomington, IN 47405 USA.'
+p149
+sa(dp150
+g2
+S'University of Michigan;University of Michigan System'
+p151
+sg4
+S'ANNUAL REVIEW OF SOCIOLOGY, VOL 41'
+p152
+sg6
+S'Page, Scott E.'
+p153
+sg8
+I2015
+sg9
+S'Univ Michigan, Ann Arbor, MI 48109 USA.'
+p154
+sa(dp155
+g2
+g3
+sg4
+S'ANNUAL REVIEW OF SOCIOLOGY, VOL 41'
+p156
+sg6
+S'Berends, Mark'
+p157
+sg8
+I2015
+sg9
+S'Univ Note Dame, Dept Sociol, Notre Dame, IN 46556 USA.'
+p158
+sa(dp159
+g2
+S'University of Michigan;University of Michigan System'
+p160
+sg4
+S'ANNUAL REVIEW OF SOCIOLOGY, VOL 41'
+p161
+sg6
+S'Burgard, Sarah A.'
+p162
+sg8
+I2015
+sg9
+S'Univ Michigan, Dept Sociol, Ann Arbor, MI 48109 USA.'
+p163
+sa(dp164
+g2
+S'Harvard University'
+p165
+sg4
+S'ANNUAL REVIEW OF SOCIOLOGY, VOL 41'
+p166
+sg6
+S'Viterna, Jocelyn'
+p167
+sg8
+I2015
+sg9
+S'Harvard Univ, Dept Sociol, Cambridge, MA 02138 USA.'
+p168
+sa(dp169
+g2
+S'University of Michigan;University of Michigan System'
+p170
+sg4
+S'ANNUAL REVIEW OF SOCIOLOGY, VOL 41'
+p171
+sg6
+S'Xie, Yu'
+p172
+sg8
+I2015
+sg9
+S'Univ Michigan, Dept Sociol, Ann Arbor, MI 48106 USA.'
+p173
+sa(dp174
+g2
+S'Columbia University'
+p175
+sg4
+S'ELITES ON TRIAL'
+p176
+sg6
+S'Khan, Shamus Rahman'
+p177
+sg8
+I2015
+sg9
+S'Columbia Univ, Dept Sociol, New York, NY 10027 USA.'
+p178
+sa(dp179
+g2
+S'University of California Berkeley;University of California System'
+p180
+sg4
+S"INSTITUTIONS AND IDEALS: PHILIP SELZNICK'S LEGACY FOR ORGANIZATIONAL STUDIES"
+p181
+sg6
+S'Ansell, Chris'
+p182
+sg8
+I2015
+sg9
+S'Univ Calif Berkeley, Dept Polit Sci, Berkeley, CA 94720 USA.'
+p183
+sa(dp184
+g2
+g3
+sg4
+S'SOCIOLOGICKY CASOPIS-CZECH SOCIOLOGICAL REVIEW'
+p185
+sg6
+S'Das, Robin R.'
+p186
+sg8
+I2015
+sg9
+S'Concordia Coll New York, 171 White Plains Rd, Bronxville, NY 10708 USA.'
+p187
+sa(dp188
+g2
+S'University of Memphis'
+p189
+sg4
+S'SOCIOLOGICKY CASOPIS-CZECH SOCIOLOGICAL REVIEW'
+p190
+sg6
+S'Abrutyn, Seth'
+p191
+sg8
+I2015
+sg9
+S'Univ Memphis, Dept Sociol, Memphis, TN 38152 USA.'
+p192
+sa(dp193
+g2
+S'Pennsylvania Commonwealth System of Higher Education (PCSHE);University of Pittsburgh'
+p194
+sg4
+S'CURRENT ALZHEIMER RESEARCH'
+p195
+sg6
+S'Rosano, Caterina'
+p196
+sg8
+I2015
+sg9
+S'Univ Pittsburgh, Grad Sch Publ Hlth, Epidemiol, 130 N Bellefield Ave, Pittsburgh, PA 15261 USA.'
+p197
+sa(dp198
+g2
+S'Johns Hopkins University'
+p199
+sg4
+S'CURRENT ALZHEIMER RESEARCH'
+p200
+sg6
+S'Gottesman, Rebecca F.'
+p201
+sg8
+I2015
+sg9
+S'Johns Hopkins Univ, Sch Med, Dept Neurol, Baltimore, MD 21205 USA.'
+p202
+sa(dp203
+g2
+S'Rush University'
+p204
+sg4
+S'CURRENT ALZHEIMER RESEARCH'
+p205
+sg6
+S'Aggarwal, Neelum T.'
+p206
+sg8
+I2015
+sg9
+S'Rush Univ, Med Ctr, 600 South Paulina St,1038 AAC, Chicago, IL 60612 USA.'
+p207
+sa(dp208
+g2
+S'University of Washington;University of Washington Seattle'
+p209
+sg4
+S'ECOLOGY AND SOCIETY'
+p210
+sg6
+S'Townsend, Patricia A.'
+p211
+sg8
+I2015
+sg9
+S'Univ Washington, Seattle, WA 98195 USA.'
+p212
+sa(dp213
+g2
+S'University of Maine;University of Maine Orono;University of Maine System'
+p214
+sg4
+S'ECOLOGY AND SOCIETY'
+p215
+sg6
+S'Hart, David D.'
+p216
+sg8
+I2015
+sg9
+S'Univ Maine, Mitchell Ctr Sustainabil Solut, Orono, ME 04469 USA.'
+p217
+sa(dp218
+g2
+S'University of Massachusetts Amherst;University of Massachusetts System'
+p219
+sg4
+S'ECOLOGY AND SOCIETY'
+p220
+sg6
+S'Gray, Steven A.'
+p221
+sg8
+I2015
+sg9
+S'Univ Massachusetts, Sch Environm, Amherst, MA 01003 USA.'
+p222
+sa(dp223
+g2
+S'University of Washington;University of Washington Seattle'
+p224
+sg4
+S'ECOLOGY AND SOCIETY'
+p225
+sg6
+S'Kowalski, Adam A.'
+p226
+sg8
+I2015
+sg9
+S'Univ Washington, Dept Geog, Seattle, WA 98195 USA.'
+p227
+sa(dp228
+g2
+S'University of Maine;University of Maine Orono;University of Maine System'
+p229
+sg4
+S'ECOLOGY AND SOCIETY'
+p230
+sg6
+S'Waring, Timothy M.'
+p231
+sg8
+I2015
+sg9
+S'Univ Maine, Mitchell Ctr Sustainabil Solut, Orono, ME 04469 USA.'
+p232
+sa(dp233
+g2
+S'SUNY Cortland;State University of New York (SUNY) System'
+p234
+sg4
+S'ENVIRONMENTAL SCIENCE-PROCESSES & IMPACTS'
+p235
+sg6
+S'Jin, L.'
+p236
+sg8
+I2015
+sg9
+S'SUNY Coll Cortland, Dept Geol, Cortland, NY 13045 USA.'
+p237
+sa(dp238
+g2
+S'University of Wisconsin Madison;University of Wisconsin System'
+p239
+sg4
+S'SALUD PUBLICA DE MEXICO'
+p240
+sg6
+S'Beltran-Sanchez, Hiram'
+p241
+sg8
+I2015
+sg9
+S'Univ Wisconsin, Ctr Demog & Ecol, 4329 William H Sewell Social Sci Bldg, Madison, WI 53706 USA.'
+p242
+sa(dp243
+g2
+S'Washington State University'
+p244
+sg4
+S'NORTHWEST SCIENCE'
+p245
+sg6
+S'Berl, Richard E. W.'
+p246
+sg8
+I2015
+sg9
+S'Washington State Univ, Sch Biol Sci, Pullman, WA 99164 USA.'
+p247
+sa(dp248
+g2
+S'Colorado State University'
+p249
+sg4
+S'ECOLOGY AND SOCIETY'
+p250
+sg6
+S'Cheng, Antony S.'
+p251
+sg8
+I2015
+sg9
+S'Colorado State Univ, Ft Collins, CO 80523 USA.'
+p252
+sa(dp253
+g2
+g3
+sg4
+S'ECOLOGY AND SOCIETY'
+p254
+sg6
+S'Karlsson, Marianne'
+p255
+sg8
+I2015
+sg9
+S'CICERO, Cicero, IL 60804 USA.'
+p256
+sa(dp257
+g2
+S'University of Alaska Fairbanks;University of Alaska System'
+p258
+sg4
+S'ECOLOGY AND SOCIETY'
+p259
+sg6
+S'Spellman, Katie V.'
+p260
+sg8
+I2015
+sg9
+S'Univ Alaska Fairbanks, Resilience & Adaptat Program, Fairbanks, AK 99775 USA.'
+p261
+sa(dp262
+g2
+S'University of Maine Orono;University of Maine System;University of Maine'
+p263
+sg4
+S'ECOLOGY AND SOCIETY'
+p264
+sg6
+S'McGreavy, Bridie'
+p265
+sg8
+I2015
+sg9
+S'Univ Maine, New England Sustainabil Consortium, Orono, ME 04469 USA.'
+p266
+sa(dp267
+g2
+S'University of Alaska Fairbanks;University of Alaska System'
+p268
+sg4
+S'ECOLOGY AND SOCIETY'
+p269
+sg6
+S'Jones, Chas E.'
+p270
+sg8
+I2015
+sg9
+S'Univ Alaska Fairbanks, Int Arctic Res Ctr, Fairbanks, AK 99775 USA.'
+p271
+sa(dp272
+g2
+S'Cornell University'
+p273
+sg4
+S'ECOLOGY AND SOCIETY'
+p274
+sg6
+S'Lee, Eunju'
+p275
+sg8
+I2015
+sg9
+S'Cornell Univ, Dept Nat Resources, Civ Ecol Lab, Ithaca, NY 14853 USA.'
+p276
+sa(dp277
+g2
+S'University of Rhode Island'
+p278
+sg4
+S'ECOLOGY AND SOCIETY'
+p279
+sg6
+S'Druschke, Caroline Gottschalk'
+p280
+sg8
+I2015
+sg9
+S'Univ Rhode Isl, Kingston, RI 02881 USA.'
+p281
+sa(dp282
+g2
+S'Dartmouth College'
+p283
+sg4
+S'ECOLOGY AND SOCIETY'
+p284
+sg6
+S'Cox, Michael'
+p285
+sg8
+I2015
+sg9
+S'Dartmouth Coll, Environm Studies Program, Hanover, NH 03755 USA.'
+p286
+sa(dp287
+g2
+S'Appalachian State University;University of North Carolina'
+p288
+sg4
+S'ECOLOGY AND SOCIETY'
+p289
+sg6
+S'Cherry, Todd L.'
+p290
+sg8
+I2015
+sg9
+S'Appalachian State Univ, Boone, NC 28608 USA.'
+p291
+sa(dp292
+g2
+S'West Virginia University'
+p293
+sg4
+S'JOURNAL OF ATHLETIC TRAINING'
+p294
+sg6
+S'Clement, Damien'
+p295
+sg8
+I2015
+sg9
+S'W Virginia Univ, Coll Phys Act & Sport Sci, POB 6116, Morgantown, WV 26506 USA.'
+p296
+sa(dp297
+g2
+g3
+sg4
+S'AMERICAN JOURNAL OF PUBLIC HEALTH'
+p298
+sg6
+S'Jackson, Sandra L.'
+p299
+sg8
+I2015
+sg9
+S'1518 Clifton Rd NE, Atlanta, GA 30322 USA.'
+p300
+sa(dp301
+g2
+S'SUNY Old Westbury;State University of New York (SUNY) System'
+p302
+sg4
+S'AMERICAN JOURNAL OF PUBLIC HEALTH'
+p303
+sg6
+S'Heller, Jacob'
+p304
+sg8
+I2015
+sg9
+S'SUNY Coll Old Westbury, Dept Sociol, Rm 2031, Old Westbury, NY 11568 USA.'
+p305
+sa(dp306
+g2
+g3
+sg4
+S'LAKE AND RESERVOIR MANAGEMENT'
+p307
+sg6
+S'Simoni, Jennifer'
+p308
+sg8
+I2015
+sg9
+S'Aldo Leopold Fdn, POB 77, Baraboo, WI 53913 USA.'
+p309
+sa(dp310
+g2
+g3
+sg4
+S'JOURNAL OF GREAT LAKES RESEARCH'
+p311
+sg6
+S'Orr, Christopher J.'
+p312
+sg8
+I2015
+sg9
+S'Dept Geog, POB 413, Milwaukee, WI 53201 USA.'
+p313
+sa(dp314
+g2
+S'United States Army;United States Department of Defense'
+p315
+sg4
+S'JOURNAL OF TRACE ELEMENTS IN MEDICINE AND BIOLOGY'
+p316
+sg6
+S'Jain, Ram B.'
+p317
+sg8
+I2015
+sg9
+S'Womack Army Med Ctr, 2817 Reilly Rd, Ft Bragg, NC 28310 USA.'
+p318
+sa(dp319
+g2
+S'Stanford University'
+p320
+sg4
+S'BRITISH JOURNAL OF PSYCHIATRY'
+p321
+sg6
+S'Luhrmann, T. M.'
+p322
+sg8
+I2015
+sg9
+S'Stanford Univ, 441 Gerona Rd, Stanford, CA 94305 USA.'
+p323
+sa(dp324
+g2
+S'Northwestern University'
+p325
+sg4
+S'AMERICAN JOURNAL OF PERINATOLOGY'
+p326
+sg6
+S'Wong, Amy E.'
+p327
+sg8
+I2015
+sg9
+S'Northwestern Univ, Dept Obstet & Gynecol, 250 East Super St,Suite 05-2175, Chicago, IL 60611 USA.'
+p328
+sa(dp329
+g2
+S'University of Texas Austin'
+p330
+sg4
+S'BEHAVIOR GENETICS'
+p331
+sg6
+S'Briley, Daniel A.'
+p332
+sg8
+I2015
+sg9
+S'Univ Texas Austin, Dept Psychol, 108 E Dean Keeton Stop A8000, Austin, TX 78712 USA.'
+p333
+sa(dp334
+g2
+S'University of California Berkeley;University of California System'
+p335
+sg4
+S'JOURNAL OF STUDIES ON ALCOHOL AND DRUGS'
+p336
+sg6
+S'Lui, Camillia K.'
+p337
+sg8
+I2015
+sg9
+S'Univ Calif Berkeley, Sch Publ Hlth, 6475 Christie Ave,Suite 400, Emeryville, CA 94608 USA.'
+p338
+sa(dp339
+g2
+S'University System of Maryland;University of Maryland College Park'
+p340
+sg4
+S'PSYCHIATRY RESEARCH'
+p341
+sg6
+S'Dagher, Rada K.'
+p342
+sg8
+I2015
+sg9
+S'Univ Maryland, Sch Publ Hlth, Dept Hlth Serv Adm, 3310B SPH Bldg, College Pk, MD 20742 USA.'
+p343
+sa(dp344
+g2
+S'University of North Carolina;University of North Carolina Charlotte'
+p345
+sg4
+S'ENVIRONMENTAL MANAGEMENT'
+p346
+sg6
+S'Wine, Stuart'
+p347
+sg8
+I2015
+sg9
+S'Univ N Carolina, Dept Geog & Earth Sci, 9201 Univ City Blvd, Charlotte, NC 28223 USA.'
+p348
+sa(dp349
+g2
+g3
+sg4
+S'FOREST POLICY AND ECONOMICS'
+p350
+sg6
+S'Borg, Riikka'
+p351
+sg8
+I2015
+sg9
+S'68 Barton Ave SE, Minneapolis, MN 55414 USA.'
+p352
+sa(dp353
+g2
+S'University of Washington;University of Washington Seattle'
+p354
+sg4
+S'GENETICS IN MEDICINE'
+p355
+sg6
+S'Burke, Wylie'
+p356
+sg8
+I2015
+sg9
+S'Univ Washington, Seattle, WA 98195 USA.'
+p357
+sa(dp358
+g2
+S'Baylor College of Medicine'
+p359
+sg4
+S'SOUTHERN MEDICAL JOURNAL'
+p360
+sg6
+S'Vidaeff, Alex C.'
+p361
+sg8
+I2015
+sg9
+S'Texas Childrens Hosp Pavil Women, Div Maternal Fetal Med, Dept Obstet & Gynecol, Baylor Coll Med, 6651 Main St,Suite F1020, Houston, TX 77030 USA.'
+p362
+sa(dp363
+g2
+S'University of Texas Health Science Center San Antonio'
+p364
+sg4
+S'SOUTHERN MEDICAL JOURNAL'
+p365
+sg6
+S'Holt, G. Richard'
+p366
+sg8
+I2015
+sg9
+S'Univ Texas Hlth Sci Ctr San Antonio, Dept Otolaryngol Head & Neck Surg, San Antonio, TX 78229 USA.'
+p367
+sa(dp368
+g2
+S'University of Colorado Boulder;University of Colorado System'
+p369
+sg4
+S'THEORY AND SOCIETY'
+p370
+sg6
+S'Reed, Isaac Ariail'
+p371
+sg8
+I2015
+sg9
+S'Univ Colorado, Dept Sociol, 327 UCB, Boulder, CO 80309 USA.'
+p372
+sa(dp373
+g2
+S'Florida State University System;University of Central Florida'
+p374
+sg4
+S'ACCIDENT ANALYSIS AND PREVENTION'
+p375
+sg6
+S'Park, Juneyoung'
+p376
+sg8
+I2015
+sg9
+S'Univ Cent Florida, Dept Civil Environm & Construct Engn, Orlando, FL 32816 USA.'
+p377
+sa(dp378
+g2
+g3
+sg4
+S'AIDS RESEARCH AND HUMAN RETROVIRUSES'
+p379
+sg6
+S'Johnston, Rowena E.'
+p380
+sg8
+I2015
+sg9
+S'Fdn AIDS Res, AmfAR, 120 Wall St,13th Floor, New York, NY 10005 USA.'
+p381
+sa(dp382
+g2
+S'Harvard University'
+p383
+sg4
+S'SEMINARS IN REPRODUCTIVE MEDICINE'
+p384
+sg6
+S'Nour, Nawal M.'
+p385
+sg8
+I2015
+sg9
+S'Harvard Univ, Sch Med, Dept Obstet & Gynecol, 75 Francis St, Boston, MA 02115 USA.'
+p386
+sa(dp387
+g2
+g3
+sg4
+S'CRITICAL SOCIOLOGY'
+p388
+sg6
+S'Selod, Saher'
+p389
+sg8
+I2015
+sg9
+S'Simmons Coll, 300 Fenway, Boston, MA 02115 USA.'
+p390
+sa(dp391
+g2
+g3
+sg4
+S'CRITICAL SOCIOLOGY'
+p392
+sg6
+S'McCormack, Karen'
+p393
+sg8
+I2015
+sg9
+S'Wheaton Coll, Dept Sociol, 26 East Main St, Norton, MA 02766 USA.'
+p394
+sa(dp395
+g2
+S'University of California San Diego;University of California System'
+p396
+sg4
+S'MEDIA CULTURE & SOCIETY'
+p397
+sg6
+S'Hallin, Daniel C.'
+p398
+sg8
+I2015
+sg9
+S'Univ Calif San Diego, 9500 Gilman Dr, La Jolla, CA 92093 USA.'
+p399
+sa(dp400
+g2
+S'United States Environmental Protection Agency'
+p401
+sg4
+S'AMERICAN JOURNAL OF EPIDEMIOLOGY'
+p402
+sg6
+S'King, Katherine E.'
+p403
+sg8
+I2015
+sg9
+S'US EPA, Environm Publ Hlth Div, 104 Mason Farm Rd, Chapel Hill, NC 27599 USA.'
+p404
+sa(dp405
+g2
+S'University of Washington;University of Washington Seattle'
+p406
+sg4
+S'AMERICAN JOURNAL OF PSYCHIATRY'
+p407
+sg6
+S'Katon, Wayne'
+p408
+sg8
+I2015
+sg9
+S'Univ Washington, Sch Med, Dept Psychiat & Behav Sci, Seattle, WA 98195 USA.'
+p409
+sa(dp410
+g2
+S'RAND Corporation'
+p411
+sg4
+S'JOURNAL OF GENERAL INTERNAL MEDICINE'
+p412
+sg6
+S'Elliott, Marc N.'
+p413
+sg8
+I2015
+sg9
+S'RAND Corp, 1776 Main St, Santa Monica, CA 90401 USA.'
+p414
+sa(dp415
+g2
+S'Indiana University South Bend;Indiana University System;Indiana University South Bend;Indiana University System'
+p416
+sg4
+S'TEACHING SOCIOLOGY'
+p417
+sg6
+S'Lucal, Betsy'
+p418
+sg8
+I2015
+sg9
+S'Indiana Univ, Dept Sociol & Anthropol, 1700 Mishawaka Ave,POB 7111, South Bend, IN 46634 USA.'
+p419
+sa(dp420
+g2
+S'University College Dublin'
+p421
+sg4
+S'TEACHING SOCIOLOGY'
+p422
+sg6
+S"O'Sullivan, Sara"
+p423
+sg8
+I2015
+sg9
+S'Univ Coll Dublin, UCD Sch Sociol, Dublin 4, Ireland.'
+p424
+sa(dp425
+g2
+g3
+sg4
+S'TEACHING SOCIOLOGY'
+p426
+sg6
+S'Chin, Lynn Gencianeo'
+p427
+sg8
+I2015
+sg9
+S'Washington & Lee Univ, Dept Sociol & Anthropol, 210 Newcomb Hall, Lexington, VA 24450 USA.'
+p428
+sa(dp429
+g2
+S'University of Vermont'
+p430
+sg4
+S'TEACHING SOCIOLOGY'
+p431
+sg6
+S'Khanna, Nikki'
+p432
+sg8
+I2015
+sg9
+S'Univ Vermont, 31 South Prospect St, Burlington, VT 05405 USA.'
+p433
+sa(dp434
+g2
+S'University System of Georgia;University of Georgia'
+p435
+sg4
+S'TEACHING SOCIOLOGY'
+p436
+sg6
+S'May, Matthew'
+p437
+sg8
+I2015
+sg9
+S'Univ Georgia, Dept Sociol, 113 Baldwin Hall, Athens, GA 30602 USA.'
+p438
+sa(dp439
+g2
+g3
+sg4
+S'TEACHING SOCIOLOGY'
+p440
+sg6
+S'Hoekstra, Angel'
+p441
+sg8
+I2015
+sg9
+S'8405 Justin Ave, College Stn, TX 77845 USA.'
+p442
+sa(dp443
+g2
+g3
+sg4
+S'ADDICTION'
+p444
+sg6
+S'Cantrell, Jennifer'
+p445
+sg8
+I2015
+sg9
+S'Legacy, Dept Res & Evaluat, 1724 Massachusetts Ave NW, Washington, DC 20036 USA.'
+p446
+sa(dp447
+g2
+S'State University of New York (SUNY) Albany;State University of New York (SUNY) System'
+p448
+sg4
+S'AMERICAN JOURNAL OF HUMAN BIOLOGY'
+p449
+sg6
+S'Ravenscroft, Julia'
+p450
+sg8
+I2015
+sg9
+S'SUNY Albany, Dept Anthropol, Albany, NY 12222 USA.'
+p451
+sa(dp452
+g2
+S'Duke University'
+p453
+sg4
+S'AMERICAN JOURNAL OF HUMAN BIOLOGY'
+p454
+sg6
+S'Kohrt, Brandon A.'
+p455
+sg8
+I2015
+sg9
+S'Duke Univ, Duke Global Hlth Inst, 310 Trent Dr,213 Trent Hall, Durham, NC 27708 USA.'
+p456
+sa(dp457
+g2
+S'Arizona State University'
+p458
+sg4
+S'AMERICAN JOURNAL OF HUMAN BIOLOGY'
+p459
+sg6
+S'Trainer, Sarah'
+p460
+sg8
+I2015
+sg9
+S'Arizona State Univ, Sch Human Evolut & Social Change, POB 872402, Tempe, AZ 85287 USA.'
+p461
+sa(dp462
+g2
+S'University of Texas Southwestern Medical Center Dallas'
+p463
+sg4
+S'AMERICAN JOURNAL OF MEDICINE'
+p464
+sg6
+S'Singal, Amit G.'
+p465
+sg8
+I2015
+sg9
+S'Univ Texas Southwestern, Div Digest & Liver Dis, Dedman Scholar Clin Care, 5959 Harry Hines Blvd,POB 1,Suite 420, Dallas, TX 75390 USA.'
+p466
+sa(dp467
+g2
+S'NIH National Institute of Mental Health (NIMH);National Institutes of Health (NIH) - USA'
+p468
+sg4
+S'JOURNAL OF THE AMERICAN ACADEMY OF CHILD AND ADOLESCENT PSYCHIATRY'
+p469
+sg6
+S'Avenevoli, Shelli'
+p470
+sg8
+I2015
+sg9
+S'NIMH, Genet Epidemiol Res Branch, 35 Convent Dr,MSC 3720, Bethesda, MD 20892 USA.'
+p471
+sa(dp472
+g2
+S'University of Washington;University of Washington Seattle'
+p473
+sg4
+S'AMERICAN JOURNAL OF PREVENTIVE MEDICINE'
+p474
+sg6
+S'Barrington, Wendy E.'
+p475
+sg8
+I2015
+sg9
+S'Univ Washington, Sch Nursing, 1959 Pacific Ave NE,Box 357263, Seattle, WA 98195 USA.'
+p476
+sa(dp477
+g2
+S'University of California Los Angeles;University of California System'
+p478
+sg4
+S'DEVELOPMENTAL MEDICINE AND CHILD NEUROLOGY'
+p479
+sg6
+S'Caplan, Rochelle'
+p480
+sg8
+I2015
+sg9
+S'Univ Calif Los Angeles, Semel Inst Neurosci & Human Behav, Los Angeles, CA 90024 USA.'
+p481
+sa(dp482
+g2
+S'University of California San Francisco;University of California System'
+p483
+sg4
+S'INTERNATIONAL JOURNAL OF STD & AIDS'
+p484
+sg6
+S'Tan, Judy Y.'
+p485
+sg8
+I2015
+sg9
+S'Univ Calif San Francisco, Dept Med, Ctr AIDS Prevent Studies, San Francisco, CA 94143 USA.'
+p486
+sa(dp487
+g2
+g3
+sg4
+S'JOURNAL OF BIOSOCIAL SCIENCE'
+p488
+sg6
+S'Carson, Scott Alan'
+p489
+sg8
+I2015
+sg9
+S'Univ Texas Permian Basin, Odessa, TX 79762 USA.'
+p490
+sa(dp491
+g2
+S'University of California Berkeley;University of California System'
+p492
+sg4
+S'CURRENT SOCIOLOGY'
+p493
+sg6
+S'Burawoy, Michael'
+p494
+sg8
+I2015
+sg9
+S'Univ Calif Berkeley, Dept Sociol, 410 Barrows Hall, Berkeley, CA 94720 USA.'
+p495
+sa(dp496
+g2
+S'Thomas Jefferson University'
+p497
+sg4
+S'JOURNAL OF UROLOGY'
+p498
+sg6
+S'Figler, Bradley D.'
+p499
+sg8
+I2015
+sg9
+S'Thomas Jefferson Univ, Dept Urol, 1025 Walnut St,Suite 1100, Philadelphia, PA 19107 USA.'
+p500
+sa(dp501
+g2
+S'George Mason University'
+p502
+sg4
+S'SOCIAL SCIENCE RESEARCH'
+p503
+sg6
+S'Davis, Shannon N.'
+p504
+sg8
+I2015
+sg9
+S'George Mason Univ, Dept Sociol & Anthropol, 4400 Univ Dr MS 3G5, Fairfax, VA 22030 USA.'
+p505
+sa(dp506
+g2
+S'Virginia Polytechnic Institute & State University'
+p507
+sg4
+S'NEUROIMAGE'
+p508
+sg6
+S'Christopoulos, George I.'
+p509
+sg8
+I2015
+sg9
+S'Virginia Tech, Carilion Res Inst, 2 Riverside Circle, Roanoke, VA 24016 USA.'
+p510
+sa(dp511
+g2
+S'University of Colorado Boulder;University of Colorado System'
+p512
+sg4
+S'ADDICTIVE BEHAVIORS'
+p513
+sg6
+S'Nowotny, Kathryn M.'
+p514
+sg8
+I2015
+sg9
+S'Univ Colorado, Dept Sociol, 327 UCB, Boulder, CO 80309 USA.'
+p515
+sa(dp516
+g2
+S'Southern Illinois University;Southern Illinois University System'
+p517
+sg4
+S'JOURNAL OF ENVIRONMENTAL MANAGEMENT'
+p518
+sg6
+S'Akamani, Kofi'
+p519
+sg8
+I2015
+sg9
+S'So Illinois Univ, Dept Forestry, 1205 Lincoln Dr,Mail Code 4411, Carbondale, IL 62901 USA.'
+p520
+sa(dp521
+g2
+S'Yale University'
+p522
+sg4
+S'PLOS ONE'
+p523
+sg6
+S'Cone, Jeremy'
+p524
+sg8
+I2014
+sg9
+S'Yale Univ, New Haven, CT 06520 USA.'
+p525
+sa(dp526
+g2
+S'Princeton University'
+p527
+sg4
+S'PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF AMERICA'
+p528
+sg6
+S'Portes, Alejandro'
+p529
+sg8
+I2014
+sg9
+S'Princeton Univ, Dept Sociol, Princeton, NJ 08544 USA.'
+p530
+sa(dp531
+g2
+S'Columbia University'
+p532
+sg4
+S'PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF AMERICA'
+p533
+sg6
+S'Levine, Sheen S.'
+p534
+sg8
+I2014
+sg9
+S'Columbia Univ, Inst Social & Econ Res & Policy, New York, NY 10027 USA.'
+p535
+sa(dp536
+g2
+S'State University of New York (SUNY) Stony Brook;State University of New York (SUNY) System'
+p537
+sg4
+S'PROCEEDINGS OF THE ROYAL SOCIETY B-BIOLOGICAL SCIENCES'
+p538
+sg6
+S'DeScioli, Peter'
+p539
+sg8
+I2014
+sg9
+S'SUNY Stony Brook, Dept Polit Sci, Stony Brook, NY 11794 USA.'
+p540
+sa(dp541
+g2
+S'Centers for Disease Control & Prevention - USA'
+p542
+sg4
+S'MMWR-MORBIDITY AND MORTALITY WEEKLY REPORT'
+p543
+sg6
+S'Sionean, Catlainn'
+p544
+sg8
+I2014
+sg9
+S'CDC, Div HIV AIDS Prevent, Natl Ctr HIV AIDS Viral Hepatitis STD & TB Preven, Atlanta, GA 30333 USA.'
+p545
+sa(dp546
+g2
+S'Northwestern University'
+p547
+sg4
+S'PLOS ONE'
+p548
+sg6
+S'Druckman, James N.'
+p549
+sg8
+I2014
+sg9
+S'Northwestern Univ, Dept Polit Sci, Evanston, IL 60208 USA.'
+p550
+sa(dp551
+g2
+S'University of California Los Angeles;University of California System'
+p552
+sg4
+S'PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF AMERICA'
+p553
+sg6
+S'Diamond, Jared'
+p554
+sg8
+I2014
+sg9
+S'Univ Calif Los Angeles, Dept Geog, Los Angeles, CA 90095 USA.'
+p555
+sa(dp556
+g2
+g3
+sg4
+S'ANNALS OF INTERNAL MEDICINE'
+p557
+sg6
+S'Grande, David'
+p558
+sg8
+I2014
+sg9
+S'3641 Locust Walk,Colonial Penn Ctr 407, Philadelphia, PA 19014 USA.'
+p559
+sa(dp560
+g2
+S'Harvard University'
+p561
+sg4
+S'PSYCHIATRY RESEARCH'
+p562
+sg6
+S'Auerbach, Randy P.'
+p563
+sg8
+I2014
+sg9
+S'Harvard Univ, Sch Med, McLean Hosp, Ctr Depress Anxiety & Stress Res,Child & Adolesce, 115 Mill St,Room 240, Belmont, MA 02478 USA.'
+p564
+sa(dp565
+g2
+S'State University of New York (SUNY) College of Environmental Science & Forestry;State University of New York (SUNY) System'
+p566
+sg4
+S'VACCINE'
+p567
+sg6
+S'Lai, Yun-Kuang'
+p568
+sg8
+I2014
+sg9
+S'SUNY Syracuse, Upstate Golisano Childrens Hosp, Syracuse, NY 13210 USA.'
+p569
+sa(dp570
+g2
+S'Emory University'
+p571
+sg4
+S'VACCINE'
+p572
+sg6
+S'Boggavarapu, Sahithi'
+p573
+sg8
+I2014
+sg9
+S'Emory Univ, Sch Med, Dept Med, Div Infect Dis, 500 Irvin Court,Suite 200, Decatur, GA 30030 USA.'
+p574
+sa(dp575
+g2
+S'Tufts University'
+p576
+sg4
+S'PLOS ONE'
+p577
+sg6
+S'Giles, Grace E.'
+p578
+sg8
+I2014
+sg9
+S'Tufts Univ, Dept Psychol, Medford, MA 02155 USA.'
+p579
+sa(dp580
+g2
+S'University of California Los Angeles;University of California System'
+p581
+sg4
+S'SCIENCE'
+p582
+sg6
+S'LaCour, Michael J.'
+p583
+sg8
+I2014
+sg9
+S'Univ Calif Los Angeles, Dept Polit Sci, Los Angeles, CA 90024 USA.'
+p584
+sa(dp585
+g2
+S'University of Minnesota System;University of Minnesota Twin Cities'
+p586
+sg4
+S'PLOS ONE'
+p587
+sg6
+S'Rustichini, Aldo'
+p588
+sg8
+I2014
+sg9
+S'Univ Minnesota, Dept Econ, Minneapolis, MN 55455 USA.'
+p589
+sa(dp590
+g2
+S'Northeastern University'
+p591
+sg4
+S'JOURNAL OF THE ROYAL SOCIETY INTERFACE'
+p592
+sg6
+S'Karsai, Marton'
+p593
+sg8
+I2014
+sg9
+S'Northeastern Univ, Lab Modeling Biol & Sociotech Syst, Boston, MA 02115 USA.'
+p594
+sa(dp595
+g2
+g3
+sg4
+S'ANNALS OF INTERNAL MEDICINE'
+p596
+sg6
+S'Kind, Amy J. H.'
+p597
+sg8
+I2014
+sg9
+S'William S Middleton Vet Affairs Hosp, Geriatr Res Educ & Clin Ctr, 2500 Overlook Terrace, Madison, WI 53705 USA.'
+p598
+sa(dp599
+g2
+S'Yale University'
+p600
+sg4
+S'AIDS CARE-PSYCHOLOGICAL AND SOCIO-MEDICAL ASPECTS OF AIDS/HIV'
+p601
+sg6
+S'Earnshaw, Valerie A.'
+p602
+sg8
+I2014
+sg9
+S'Yale Univ, Ctr Interdisciplinary Res AIDS, New Haven, CT 06520 USA.'
+p603
+sa(dp604
+g2
+g3
+sg4
+S'JOURNAL OF AFFECTIVE DISORDERS'
+p605
+sg6
+S'Miller, Shefali'
+p606
+sg8
+I2014
+sg9
+S'401 Quarry Rd, Stanford, CA 94305 USA.'
+p607
+sa(dp608
+g2
+S'Centers for Disease Control & Prevention - USA'
+p609
+sg4
+S'INDIAN JOURNAL OF CANCER'
+p610
+sg6
+S'Palipudi, K.'
+p611
+sg8
+I2014
+sg9
+S'Ctr Dis Control & Prevent, Atlanta, GA 30333 USA.'
+p612
+sa(dp613
+g2
+S'Oregon University System;Portland State University'
+p614
+sg4
+S'PREVENTIVE MEDICINE'
+p615
+sg6
+S'Dill, Jennifer'
+p616
+sg8
+I2014
+sg9
+S'Portland State Univ, Nohad A Toulan Sch Urban Studies & Planning, POB 751, Portland, OR 97207 USA.'
+p617
+sa(dp618
+g2
+g3
+sg4
+S'PREVENTIVE MEDICINE'
+p619
+sg6
+S'Kamel, Amir A.'
+p620
+sg8
+I2014
+sg9
+S'Discovery 1,Room 529,915 Greene St, Columbia, SC 29208 USA.'
+p621
+sa(dp622
+g2
+S'Texas A&M University College Station;Texas A&M University System'
+p623
+sg4
+S'PREVENTIVE MEDICINE'
+p624
+sg6
+S'Zhu, Xuemei'
+p625
+sg8
+I2014
+sg9
+S'Texas A&M Univ, Ctr Hlth Syst & Design, Dept Architecture, 3137 TAMU, College Stn, TX 77843 USA.'
+p626
+sa(dp627
+g2
+S'Towson University;University System of Maryland'
+p628
+sg4
+S'CULTURAL SOCIOLOGY'
+p629
+sg6
+S'Elliott, Michael A.'
+p630
+sg8
+I2014
+sg9
+S'Towson Univ, Dept Sociol, 8000 York Rd, Towson, MD 21252 USA.'
+p631
+sa(dp632
+g2
+S'University of Virginia'
+p633
+sg4
+S'JOURNAL OF PSYCHOSOMATIC RESEARCH'
+p634
+sg6
+S'Logan, Jeongok G.'
+p635
+sg8
+I2014
+sg9
+S'Univ Virginia, Dept Acute & Specialty Care, Sch Nursing, McLeod Bldg,Room 4011,225 Jeanette Lancaster Way, Charlottesville, VA 22903 USA.'
+p636
+sa(dp637
+g2
+S'Michigan State University'
+p638
+sg4
+S'SOCIOLOGY OF SPORT JOURNAL'
+p639
+sg6
+S'Kalof, Linda'
+p640
+sg8
+I2014
+sg9
+S'Michigan State Univ, Dept Sociol, E Lansing, MI 48824 USA.'
+p641
+sa(dp642
+g2
+S'University of Southern California'
+p643
+sg4
+S'WORLD NEUROSURGERY'
+p644
+sg6
+S'Attenello, Frank J.'
+p645
+sg8
+I2014
+sg9
+S'Univ So Calif, Keck Sch Med, Los Angeles, CA 90033 USA.'
+p646
+sa(dp647
+g2
+S'University of Southern California'
+p648
+sg4
+S'WORLD NEUROSURGERY'
+p649
+sg6
+S'Pham, Martin H.'
+p650
+sg8
+I2014
+sg9
+S'Univ So Calif, Keck Sch Med, Dept Neurosurg, Los Angeles, CA 90033 USA.'
+p651
+sa(dp652
+g2
+S'University of California Davis;University of California System'
+p653
+sg4
+S'CURRENT OPINION IN GENETICS & DEVELOPMENT'
+p654
+sg6
+S'Ross, Cody T.'
+p655
+sg8
+I2014
+sg9
+S'Univ Calif Davis, Dept Environm Sci & Policy, Davis, CA 95616 USA.'
+p656
+sa(dp657
+g2
+S'University of Texas Austin'
+p658
+sg4
+S'DRUG AND ALCOHOL DEPENDENCE'
+p659
+sg6
+S'Choi, Namkee G.'
+p660
+sg8
+I2014
+sg9
+S'Univ Texas Austin, Sch Social Work, 1925 San Jacinto Blvd,D3500, Austin, TX 78712 USA.'
+p661
+sa(dp662
+g2
+S'New York University'
+p663
+sg4
+S'DRUG AND ALCOHOL DEPENDENCE'
+p664
+sg6
+S'Halkitis, Perry N.'
+p665
+sg8
+I2014
+sg9
+S'NYU, Global Inst Publ Hlth, 41 East 11th St 716, New York, NY 10003 USA.'
+p666
+sa(dp667
+g2
+S'SUNY Plattsburgh;State University of New York (SUNY) System'
+p668
+sg4
+S'POETICS'
+p669
+sg6
+S'McCoy, Charles Allan'
+p670
+sg8
+I2014
+sg9
+S'SUNY Coll Plattsburgh, Dept Sociol, 101 Broad St, Plattsburgh, NY 12901 USA.'
+p671
+sa(dp672
+g2
+S'City University of New York (CUNY) System;John Jay College of Criminal Justice (CUNY)'
+p673
+sg4
+S'POETICS'
+p674
+sg6
+S'Ocejo, Richard E.'
+p675
+sg8
+I2014
+sg9
+S'CUNY John Jay Coll Criminal Justice, Dept Sociol, Room 3258N,524 West 59th St, New York, NY 10019 USA.'
+p676
+sa(dp677
+g2
+S'Northwestern University'
+p678
+sg4
+S'AMERICAN JOURNAL OF PUBLIC HEALTH'
+p679
+sg6
+S'Victorson, David'
+p680
+sg8
+I2014
+sg9
+S'Northwestern Univ, Feinberg Sch Med, Dept Med Social Sci, 2205 Tech Dr,Suite 2-120, Evanston, IL 60208 USA.'
+p681
+sa(dp682
+g2
+S'Columbia University'
+p683
+sg4
+S'AMERICAN JOURNAL OF PUBLIC HEALTH'
+p684
+sg6
+S'Sommer, Marni'
+p685
+sg8
+I2014
+sg9
+S'Columbia Univ, Mailman Sch Publ Hlth, 722 W 168th St,Room 537, New York, NY 10032 USA.'
+p686
+sa(dp687
+g2
+g3
+sg4
+S'AMERICAN JOURNAL OF PUBLIC HEALTH'
+p688
+sg6
+S'Yun, Katherine'
+p689
+sg8
+I2014
+sg9
+S'3535 Market St,Room 1539, Philadelphia, PA 19104 USA.'
+p690
+sa(dp691
+g2
+S'University of Minnesota System;University of Minnesota Twin Cities'
+p692
+sg4
+S'AMERICAN JOURNAL OF PUBLIC HEALTH'
+p693
+sg6
+S'Clark, Cari Jo'
+p694
+sg8
+I2014
+sg9
+S'Univ Minnesota, Sch Publ Hlth, 717 Delaware St SE,Suite 166, Minneapolis, MN 55414 USA.'
+p695
+sa(dp696
+g2
+S'University of South Carolina;University of South Carolina Columbia;University of South Carolina System'
+p697
+sg4
+S'AMERICAN JOURNAL OF PUBLIC HEALTH'
+p698
+sg6
+S'Moore, Spencer'
+p699
+sg8
+I2014
+sg9
+S'Univ S Carolina, Arnold Sch Publ Hlth, HPEB, 915 Greene St,511, Columbia, SC 29208 USA.'
+p700
+sa(dp701
+g2
+S'Harvard University'
+p702
+sg4
+S'AMERICAN JOURNAL OF PUBLIC HEALTH'
+p703
+sg6
+S'Signorello, Lisa B.'
+p704
+sg8
+I2014
+sg9
+S'Harvard Univ, Sch Publ Hlth, Dept Epidemiol, 677 Huntington Ave, Boston, MA 02115 USA.'
+p705
+sa(dp706
+g2
+g3
+sg4
+S'CHEST'
+p707
+sg6
+S'Khandelwal, Nita'
+p708
+sg8
+I2014
+sg9
+S'Harborview Med Ctr, Dept Anesthesiol & Pain Med, POB 359724, Seattle, WA 98104 USA.'
+p709
+sa(dp710
+g2
+g3
+sg4
+S'ECOLOGICAL ECONOMICS'
+p711
+sg6
+S'Winthrop, Robert H.'
+p712
+sg8
+I2014
+sg9
+S'USDI Bur Land Management, Socioecon Program WO 210, 20 M St SE 2134 LM, Washington, DC 20003 USA.'
+p713
+sa(dp714
+g2
+g3
+sg4
+S'SOCIOLOGY OF RELIGION'
+p715
+sg6
+S'Marti, Gerardo'
+p716
+sg8
+I2014
+sg9
+S'Davidson Coll, Davidson, NC 28035 USA.'
+p717
+sa(dp718
+g2
+S'University of Missouri Columbia;University of Missouri System'
+p719
+sg4
+S'SOCIOLOGY OF RELIGION'
+p720
+sg6
+S'Neitz, Mary Jo'
+p721
+sg8
+I2014
+sg9
+S'Univ Missouri, Columbia, MO 65211 USA.'
+p722
+sa(dp723
+g2
+S'Syracuse University'
+p724
+sg4
+S'SOCIOLOGY OF RELIGION'
+p725
+sg6
+S'Kurien, Prema'
+p726
+sg8
+I2014
+sg9
+S'Syracuse Univ, Syracuse, NY 13210 USA.'
+p727
+sa(dp728
+g2
+S'Brandeis University'
+p729
+sg4
+S'SOCIOLOGY OF RELIGION'
+p730
+sg6
+S'Cadge, Wendy'
+p731
+sg8
+I2014
+sg9
+S'Brandeis Univ, Dept Sociol, Waltham, MA 02453 USA.'
+p732
+sa(dp733
+g2
+S'University of Virginia'
+p734
+sg4
+S'SOCIOLOGY OF RELIGION'
+p735
+sg6
+S'Guhin, Jeffrey'
+p736
+sg8
+I2014
+sg9
+S'Univ Virginia, Inst Adv Studies Culture, Charlottesville, VA 22903 USA.'
+p737
+sa(dp738
+g2
+S'Princeton University'
+p739
+sg4
+S'SOCIOLOGY OF RELIGION'
+p740
+sg6
+S'Wuthnow, Robert'
+p741
+sg8
+I2014
+sg9
+S'Princeton Univ, Dept Sociol, Princeton, NJ 08544 USA.'
+p742
+sa(dp743
+g2
+g3
+sg4
+S'ANNALS OF BEHAVIORAL MEDICINE'
+p744
+sg6
+S'Rosland, Ann Marie'
+p745
+sg8
+I2014
+sg9
+S'VA Ann Arbor Ctr Clin Management Res, 2800 Plymouth Rd,NCRC Bldg 16,3rd Floor, Ann Arbor, MI 48109 USA.'
+p746
+sa(dp747
+g2
+S'University of Pennsylvania'
+p748
+sg4
+S'JOURNAL OF EXPERIMENTAL PSYCHOLOGY-GENERAL'
+p749
+sg6
+S'Cutright, Keisha M.'
+p750
+sg8
+I2014
+sg9
+S'Univ Penn, Wharton Sch, Jon M Huntsman Hall,Suite 700,3730 Walnut St, Philadelphia, PA 19104 USA.'
+p751
+sa(dp752
+g2
+g3
+sg4
+S'JOURNAL OF EXPERIMENTAL PSYCHOLOGY-GENERAL'
+p753
+sg6
+S'Johnson, Samuel G. B.'
+p754
+sg8
+I2014
+sg9
+S'2 Hillhouse Ave, New Haven, CT 06520 USA.'
+p755
+sa(dp756
+g2
+S'University of Washington;University of Washington Seattle'
+p757
+sg4
+S'LANDSCAPE ECOLOGY'
+p758
+sg6
+S'Franklin, Jerry F.'
+p759
+sg8
+I2014
+sg9
+S'Univ Washington, Sch Environm & Forest Sci, Box 352100, Seattle, WA 98195 USA.'
+p760
+sa(dp761
+g2
+S'Rochester Institute of Technology'
+p762
+sg4
+S'JOURNAL OF CONTEMPORARY ETHNOGRAPHY'
+p763
+sg6
+S'Williams, LaVerne McQuiller'
+p764
+sg8
+I2014
+sg9
+S'Rochester Inst Technol, Dept Criminal Justice, 93 Lomb Mem Dr, Rochester, NY 14624 USA.'
+p765
+sa(dp766
+g2
+S'University of Notre Dame'
+p767
+sg4
+S'SOCIOLOGICAL THEORY'
+p768
+sg6
+S'Gibson, David R.'
+p769
+sg8
+I2014
+sg9
+S'Univ Notre Dame, Dept Sociol, 736 Flanner Hall, Notre Dame, IN 46556 USA.'
+p770
+sa(dp771
+g2
+S'University of Pennsylvania'
+p772
+sg4
+S'SOCIOLOGICAL THEORY'
+p773
+sg6
+S'Benzecry, Claudio'
+p774
+sg8
+I2014
+sg9
+S'Univ Penn, 3718 Locust Walk, Philadelphia, PA 19104 USA.'
+p775
+sa(dp776
+g2
+S'University of Memphis'
+p777
+sg4
+S'SOCIOLOGICAL THEORY'
+p778
+sg6
+S'Abrutyn, Seth'
+p779
+sg8
+I2014
+sg9
+S'Univ Memphis, Dept Sociol, Clement Hall 231, Memphis, TN 38152 USA.'
+p780
+sa(dp781
+g2
+S'University of California Riverside;University of California System'
+p782
+sg4
+S'SOCIOLOGICAL THEORY'
+p783
+sg6
+S'Maryanski, Alexandra'
+p784
+sg8
+I2014
+sg9
+S'Univ Calif Riverside, Dept Sociol, 900 Univ Ave, Riverside, CA 92521 USA.'
+p785
+sa(dp786
+g2
+S'University of Nebraska Medical Center;University of Nebraska System'
+p787
+sg4
+S'BREAST'
+p788
+sg6
+S'Obrist, Mark'
+p789
+sg8
+I2014
+sg9
+S'Univ Nebraska Med Ctr, Coll Publ Hlth, 984395 Nebraska Med Ctr,MCPH 3022, Omaha, NE 68198 USA.'
+p790
+sa(dp791
+g2
+S'University of California Santa Cruz;University of California System'
+p792
+sg4
+S'HUMAN ECOLOGY'
+p793
+sg6
+S'Tadesse, Getachew'
+p794
+sg8
+I2014
+sg9
+S'Univ Calif Santa Cruz, Santa Cruz, CA 95064 USA.'
+p795
+sa(dp796
+g2
+S'University of Virginia'
+p797
+sg4
+S'HUMAN ECOLOGY'
+p798
+sg6
+S'Jenkins, Willis'
+p799
+sg8
+I2014
+sg9
+S'Univ Virginia, Dept Religious Studies, POB 400126, Charlottesville, VA 22904 USA.'
+p800
+sa(dp801
+g2
+S'New England Research Institutes'
+p802
+sg4
+S'JOURNAL OF BONE AND MINERAL RESEARCH'
+p803
+sg6
+S'Araujo, Andre B.'
+p804
+sg8
+I2014
+sg9
+S'New England Res Inst Inc, Dept Epidemiol, 9 Galen St, Watertown, MA 02472 USA.'
+p805
+sa(dp806
+g2
+S'University of Missouri Columbia;University of Missouri System'
+p807
+sg4
+S'PREVENTIVE MEDICINE'
+p808
+sg6
+S'Conn, Vicki S.'
+p809
+sg8
+I2014
+sg9
+S'Univ Missouri, Sinclair Sch Nursing S317, Columbia, MO 65211 USA.'
+p810
+sa(dp811
+g2
+S'University of Miami'
+p812
+sg4
+S'SCHIZOPHRENIA RESEARCH'
+p813
+sg6
+S'Robertson, Belinda R.'
+p814
+sg8
+I2014
+sg9
+S'Univ Miami, Miller Sch Med, Dept Psychiat & Behav Sci, 1120 NW 14th St,Suite 1450, Miami, FL 33136 USA.'
+p815
+sa(dp816
+g2
+S'University System of Georgia;University of Georgia'
+p817
+sg4
+S'SOCIOLOGICAL REVIEW'
+p818
+sg6
+S'Cooney, Mark'
+p819
+sg8
+I2014
+sg9
+S'Univ Georgia, Athens, GA 30602 USA.'
+p820
+sa(dp821
+g2
+S'Michigan State University'
+p822
+sg4
+S'SOCIAL SCIENCE JOURNAL'
+p823
+sg6
+S'Gunderson, Ryan'
+p824
+sg8
+I2014
+sg9
+S'Michigan State Univ, Dept Sociol, 316 Berkey Hall, E Lansing, MI 48824 USA.'
+p825
+sa(dp826
+g2
+S'Reed College - Oregon'
+p827
+sg4
+S'CURRENT ANTHROPOLOGY'
+p828
+sg6
+S'Handman, Courtney'
+p829
+sg8
+I2014
+sg9
+S'Reed Coll, Dept Anthropol, 3203 SE Woodstock Blvd, Portland, OR 97202 USA.'
+p830
+sa(dp831
+g2
+g3
+sg4
+S'JOURNAL OF RHEUMATOLOGY'
+p832
+sg6
+S'Jetha, Arif'
+p833
+sg8
+I2014
+sg9
+S'Liberty Mutual Res Inst Safety, 71 Frankland Rd, Hopkinton, MA 01748 USA.'
+p834
+sa(dp835
+g2
+S'University System of Maryland;University of Maryland Baltimore'
+p836
+sg4
+S'JOURNAL OF THE AMERICAN DENTAL ASSOCIATION'
+p837
+sg6
+S'Vargas, Clemencia M.'
+p838
+sg8
+I2014
+sg9
+S'Univ Maryland, Sch Dent, 650 W Baltimore St,Room 2217, Baltimore, MD 21250 USA.'
+p839
+sa(dp840
+g2
+S'Pennsylvania Commonwealth System of Higher Education (PCSHE);University of Pittsburgh'
+p841
+sg4
+S'PEDIATRICS'
+p842
+sg6
+S'Dick, Rebecca N.'
+p843
+sg8
+I2014
+sg9
+S'Univ Pittsburgh, Childrens Hosp Pittsburgh, Med Ctr, 3414 Fifth Ave,CHOB Room 101, Pittsburgh, PA 15213 USA.'
+p844
+sa(dp845
+g2
+S'University of California San Francisco;University of California System'
+p846
+sg4
+S'PEDIATRICS'
+p847
+sg6
+S'Gottlieb, Laura'
+p848
+sg8
+I2014
+sg9
+S'Univ Calif San Francisco, Ctr Hlth & Community, 3333 Calif St,Suite 465, San Francisco, CA 94118 USA.'
+p849
+sa(dp850
+g2
+S'University of California San Diego;University of California System'
+p851
+sg4
+S'PSYCHIATRY-INTERPERSONAL AND BIOLOGICAL PROCESSES'
+p852
+sg6
+S'Jeste, Dilip V.'
+p853
+sg8
+I2014
+sg9
+S'Univ Calif San Diego, 9500 Gilman Dr,0664, San Diego, CA 92093 USA.'
+p854
+sa(dp855
+g2
+S'University of Kent'
+p856
+sg4
+S'CRIME MEDIA CULTURE'
+p857
+sg6
+S'Ferrell, Jeff'
+p858
+sg8
+I2014
+sg9
+S'Univ Kent, Sch Social Policy Sociol & Social Res, Canterbury CT2 7NF, Kent, England.'
+p859
+sa(dp860
+g2
+S'Quinnipiac University'
+p861
+sg4
+S'JOURNAL FOR THE SCIENTIFIC STUDY OF RELIGION'
+p862
+sg6
+S'Yukich, Grace'
+p863
+sg8
+I2014
+sg9
+S'Quinnipiac Univ, Dept Sociol, 275 Mt Carmel Ave, Hamden, CT 06518 USA.'
+p864
+sa(dp865
+g2
+S'University of North Carolina;University of North Carolina Chapel Hill'
+p866
+sg4
+S'ARTHRITIS CARE & RESEARCH'
+p867
+sg6
+S'Baldassari, Antoine R.'
+p868
+sg8
+I2014
+sg9
+S'Univ N Carolina, Thurston Arthrit Res Ctr, 3300 Thurston Bldg,CB7280, Chapel Hill, NC 27599 USA.'
+p869
+sa(dp870
+g2
+S'Georgetown University'
+p871
+sg4
+S'JOURNAL OF THE AMERICAN ACADEMY OF CHILD AND ADOLESCENT PSYCHIATRY'
+p872
+sg6
+S'Biel, Matthew G.'
+p873
+sg8
+I2014
+sg9
+S'Georgetown Univ Hosp, Dept Psychiat, 2115,Wisconsin Ave NW Suite 200, Washington, DC 20007 USA.'
+p874
+sa(dp875
+g2
+S'University of San Francisco'
+p876
+sg4
+S'PHILOSOPHY OF SCIENCE'
+p877
+sg6
+S'Spencer, Quayshawn'
+p878
+sg8
+I2014
+sg9
+S'Univ San Francisco, Dept Philosophy, 2130 Fulton St, San Francisco, CA 94117 USA.'
+p879
+sa(dp880
+g2
+S'Oregon State University;Oregon University System'
+p881
+sg4
+S'PHILOSOPHY OF SCIENCE'
+p882
+sg6
+S'Kaplan, Jonathan Michael'
+p883
+sg8
+I2014
+sg9
+S'Oregon State Univ, Sch Hist Philosophy & Relig, 322 Milam Hall, Corvallis, OR 97331 USA.'
+p884
+sa(dp885
+g2
+S'University of Colorado Boulder;University of Colorado System'
+p886
+sg4
+S'PHILOSOPHY OF SCIENCE'
+p887
+sg6
+S'Kopec, Matthew'
+p888
+sg8
+I2014
+sg9
+S'Univ Colorado, Dept Philosophy, UCB 232, Boulder, CO 80309 USA.'
+p889
+sa(dp890
+g2
+S'University of Pennsylvania'
+p891
+sg4
+S'SLEEP'
+p892
+sg6
+S'Basner, Mathias'
+p893
+sg8
+I2014
+sg9
+S'Univ Penn, Perelman Sch Med, 1019 Blockley Hall,423 Guardian Dr, Philadelphia, PA 19104 USA.'
+p894
+sa(dp895
+g2
+S'University of California San Diego;University of California System'
+p896
+sg4
+S'QUALITATIVE SOCIOLOGY'
+p897
+sg6
+S'Meyers, Stephen J.'
+p898
+sg8
+I2014
+sg9
+S'Univ Calif San Diego, La Jolla, CA 92093 USA.'
+p899
+sa(dp900
+g2
+S'University of Houston System;University of Houston'
+p901
+sg4
+S'QUALITATIVE SOCIOLOGY'
+p902
+sg6
+S'Brown, Jessica Autumn'
+p903
+sg8
+I2014
+sg9
+S'Univ Houston, Dept Sociol, 483 Philip G Hoffman Hall, Houston, TX 77204 USA.'
+p904
+sa(dp905
+g2
+S'Cornell University'
+p906
+sg4
+S'SOCIAL FORCES'
+p907
+sg6
+S'Cornwell, Benjamin'
+p908
+sg8
+I2014
+sg9
+S'Cornell Univ, Dept Sociol, 354 Uris Hall, Ithaca, NY 14853 USA.'
+p909
+sa(dp910
+g2
+S'University of Toronto'
+p911
+sg4
+S'SOCIOLOGICAL FORUM'
+p912
+sg6
+S'Schneiderhan, Erik'
+p913
+sg8
+I2014
+sg9
+S'Univ Toronto, Dept Sociol, 3359 Mississauga Rd, Mississauga, ON L5L 1C6, Canada.'
+p914
+sa(dp915
+g2
+S'University of Connecticut'
+p916
+sg4
+S'SOCIOLOGICAL FORUM'
+p917
+sg6
+S'Holzer, Elizabeth'
+p918
+sg8
+I2014
+sg9
+S'Univ Connecticut, Dept Sociol, Unit 2068,344 Mansfield Rd, Storrs, CT 06269 USA.'
+p919
+sa(dp920
+g2
+S'University of Notre Dame'
+p921
+sg4
+S'SOCIOLOGICAL FORUM'
+p922
+sg6
+S'Lizardo, Omar'
+p923
+sg8
+I2014
+sg9
+S'Univ Notre Dame, Dept Sociol, 810 Flanner Hall, Notre Dame, IN 46556 USA.'
+p924
+sa(dp925
+g2
+S'University of North Texas Denton;University of North Texas System'
+p926
+sg4
+S'SOCIOLOGICAL FORUM'
+p927
+sg6
+S'Ignatow, Gabe'
+p928
+sg8
+I2014
+sg9
+S'Univ N Texas, Dept Sociol, 1155 Union Circle 311157, Denton, TX 76203 USA.'
+p929
+sa(dp930
+g2
+g3
+sg4
+S'SOCIOLOGICAL FORUM'
+p931
+sg6
+S'Danna, Karen'
+p932
+sg8
+I2014
+sg9
+S'Lafayette Coll, Dept Sociol, 730 High St, Easton, PA 18042 USA.'
+p933
+sa(dp934
+g2
+S'Rutgers State University'
+p935
+sg4
+S'SOCIOLOGICAL FORUM'
+p936
+sg6
+S'Shepherd, Hana'
+p937
+sg8
+I2014
+sg9
+S'Rutgers State Univ, Dept Sociol, New Brunswick, NJ 08903 USA.'
+p938
+sa(dp939
+g2
+S'Rutgers State University'
+p940
+sg4
+S'SOCIOLOGICAL FORUM'
+p941
+sg6
+S'Cerulo, Karen A.'
+p942
+sg8
+I2014
+sg9
+S'Rutgers State Univ, Dept Sociol, New Brunswick, NJ 08903 USA.'
+p943
+sa(dp944
+g2
+S'University of California San Francisco;University of California System'
+p945
+sg4
+S'AMERICAN JOURNAL OF INDUSTRIAL MEDICINE'
+p946
+sg6
+S'Burgel, Barbara J.'
+p947
+sg8
+I2014
+sg9
+S'Univ Calif San Francisco, Sch Nursing, Dept Community Hlth Syst, 2 Koret Way, San Francisco, CA 94143 USA.'
+p948
+sa(dp949
+g2
+S'North Dakota State University Fargo'
+p950
+sg4
+S'JOURNAL OF EXPERIMENTAL PSYCHOLOGY-HUMAN PERCEPTION AND PERFORMANCE'
+p951
+sg6
+S'Thomas, Laura E.'
+p952
+sg8
+I2014
+sg9
+S'N Dakota State Univ, Ctr Visual & Cognit Neurosci, Dept Psychol, NDSU Dept 2765,POB 6050, Fargo, ND 58108 USA.'
+p953
+sa(dp954
+g2
+S'Indiana University Bloomington;Indiana University System'
+p955
+sg4
+S'SCIENTOMETRICS'
+p956
+sg6
+S'Bowman, Timothy D.'
+p957
+sg8
+I2014
+sg9
+S'Indiana Univ, Sch Informat & Comp, Bloomington, IN 47405 USA.'
+p958
+sa(dp959
+g2
+S'University System of Maryland;University of Maryland College Park'
+p960
+sg4
+S'CHILD PSYCHIATRY & HUMAN DEVELOPMENT'
+p961
+sg6
+S'Wang, Jennifer M.'
+p962
+sg8
+I2014
+sg9
+S'Univ Maryland, Dept Human Dev & Quantitat Methodol, 3340 Benjamin Bldg, College Pk, MD 20742 USA.'
+p963
+sa(dp964
+g2
+S'Florida State University System;University of Florida'
+p965
+sg4
+S'CONSERVATION BIOLOGY'
+p966
+sg6
+S'Hall, Jaclyn M.'
+p967
+sg8
+I2014
+sg9
+S'Univ Florida, Dept Geog, POB 117315, Gainesville, FL 32611 USA.'
+p968
+sa(dp969
+g2
+S'Coastal Carolina University'
+p970
+sg4
+S'CURRENT PSYCHOLOGY'
+p971
+sg6
+S'Pettijohn, Terry F., II'
+p972
+sg8
+I2014
+sg9
+S'Coastal Carolina Univ, Dept Psychol, POB 261954, Conway, SC 29528 USA.'
+p973
+sa(dp974
+g2
+S'University of California Santa Barbara;University of California System'
+p975
+sg4
+S'JOURNAL OF AUTISM AND DEVELOPMENTAL DISORDERS'
+p976
+sg6
+S'Vernon, Ty W.'
+p977
+sg8
+I2014
+sg9
+S'Univ Calif Santa Barbara, Gevirtz Grad Sch Educ, Koegel Autism Ctr, Dept Counseling Clin & Sch Psychol, Santa Barbara, CA 93106 USA.'
+p978
+sa(dp979
+g2
+S'University of Michigan;University of Michigan System'
+p980
+sg4
+S'JOURNAL OF BEHAVIORAL MEDICINE'
+p981
+sg6
+S'Ryan, Lindsay H.'
+p982
+sg8
+I2014
+sg9
+S'Univ Michigan, Inst Social Res, 426 Thompson St MISQ, Ann Arbor, MI 48104 USA.'
+p983
+sa(dp984
+g2
+S'UTMD Anderson Cancer Center'
+p985
+sg4
+S'JOURNAL OF BEHAVIORAL MEDICINE'
+p986
+sg6
+S'Stewart, Diana W.'
+p987
+sg8
+I2014
+sg9
+S'Univ Texas MD Anderson Canc Ctr, Dept Hlth Dispar Res, Unit 1440, POB 301402, Houston, TX 77230 USA.'
+p988
+sa(dp989
+g2
+S'University of Michigan;University of Michigan System'
+p990
+sg4
+S'LANDSCAPE AND URBAN PLANNING'
+p991
+sg6
+S'Visscher, Rachel Stehouwer'
+p992
+sg8
+I2014
+sg9
+S'Univ Michigan, Sch Nat Resources & Environm, 1550 Dana 440 Church St, Ann Arbor, MI 48109 USA.'
+p993
+sa(dp994
+g2
+S'University of Tennessee Knoxville;University of Tennessee System'
+p995
+sg4
+S'PSYCHIATRIC QUARTERLY'
+p996
+sg6
+S'Lee, Sungkyu'
+p997
+sg8
+I2014
+sg9
+S'Univ Tennessee, Coll Social Work, 1618 Cumberland Ave, Knoxville, TN 37996 USA.'
+p998
+sa(dp999
+g2
+S'Brown University'
+p1000
+sg4
+S'PSYCHONOMIC BULLETIN & REVIEW'
+p1001
+sg6
+S'Schloss, Karen B.'
+p1002
+sg8
+I2014
+sg9
+S'Brown Univ, Dept Cognit Linguist & Psychol Sci, 190 Thayer St, Providence, RI 02912 USA.'
+p1003
+sa(dp1004
+g2
+S'City University of New York (CUNY) System;John Jay College of Criminal Justice (CUNY)'
+p1005
+sg4
+S'ETHNOGRAPHY'
+p1006
+sg6
+S'Ocejo, Richard E.'
+p1007
+sg8
+I2014
+sg9
+S'CUNY John Jay Coll Criminal Justice, Dept Sociol, New York, NY 10019 USA.'
+p1008
+sa(dp1009
+g2
+S'Rutgers State University'
+p1010
+sg4
+S'JOURNAL OF BEHAVIORAL MEDICINE'
+p1011
+sg6
+S'Coups, Elliot J.'
+p1012
+sg8
+I2014
+sg9
+S'Rutgers State Univ, Rutgers Canc Inst New Jersey, 195 Little Albany St, New Brunswick, NJ 08903 USA.'
+p1013
+sa(dp1014
+g2
+S'Yale University'
+p1015
+sg4
+S'PEDIATRIC BLOOD & CANCER'
+p1016
+sg6
+S'Lau, Samantha'
+p1017
+sg8
+I2014
+sg9
+S'Yale Univ, Sch Med, Sect Pediat Hematol Oncol, 333 Cedar St LMP 2073, New Haven, CT 06510 USA.'
+p1018
+sa(dp1019
+g2
+S'University of California Berkeley;University of California System'
+p1020
+sg4
+S'SOCIOLOGICAL PERSPECTIVES'
+p1021
+sg6
+S'Rowe, Matthew'
+p1022
+sg8
+I2014
+sg9
+S'Univ Calif Berkeley, Dept Sociol, 410 Barrows Hall, Berkeley, CA 94720 USA.'
+p1023
+sa(dp1024
+g2
+S'State University of New York (SUNY) Stony Brook;State University of New York (SUNY) System'
+p1025
+sg4
+S'SOCIOLOGICAL PERSPECTIVES'
+p1026
+sg6
+S'Shorette, Kristen'
+p1027
+sg8
+I2014
+sg9
+S'SUNY Stony Brook, Dept Sociol, 100 Nicolls Rd, Stony Brook, NY 11794 USA.'
+p1028
+sa(dp1029
+g2
+g3
+sg4
+S'PERSPECTIVES IN BIOLOGY AND MEDICINE'
+p1030
+sg6
+S'Jackson, Myles W.'
+p1031
+sg8
+I2014
+sg9
+S'New York Univ Gallatin, 1 Washington Pl,Room 405, New York, NY 10003 USA.'
+p1032
+sa(dp1033
+g2
+S'University of Washington;University of Washington Seattle'
+p1034
+sg4
+S'ETHNICITY & DISEASE'
+p1035
+sg6
+S'Duncan, Glen E.'
+p1036
+sg8
+I2014
+sg9
+S'Univ Washington, Box 353410, Seattle, WA 98195 USA.'
+p1037
+sa(dp1038
+g2
+S'University of Massachusetts Amherst;University of Massachusetts System'
+p1039
+sg4
+S'ETHNICITY & DISEASE'
+p1040
+sg6
+S'Alhassan, Sofiya'
+p1041
+sg8
+I2014
+sg9
+S'Univ Massachusetts, Dept Kinesiol, 110 Totman Bldg,30 Eastman Lane, Amherst, MA 01003 USA.'
+p1042
+sa(dp1043
+g2
+S'Pennsylvania Commonwealth System of Higher Education (PCSHE);Temple University'
+p1044
+sg4
+S'ETHNICITY & DISEASE'
+p1045
+sg6
+S'Wanat, Karolyn A.'
+p1046
+sg8
+I2014
+sg9
+S'Temple Univ, Ctr Obes Res & Educ, 3223 North Broad St,Suite 175, Philadelphia, PA 19140 USA.'
+p1047
+sa(dp1048
+g2
+g3
+sg4
+S'ETHNICITY & DISEASE'
+p1049
+sg6
+S'White, Kellee'
+p1050
+sg8
+I2014
+sg9
+S'800 Sumter St,Suite 205, Columbia, SC 29209 USA.'
+p1051
+sa(dp1052
+g2
+S'University of Chicago'
+p1053
+sg4
+S'ETHNICITY & DISEASE'
+p1054
+sg6
+S'Baig, Arshiya A.'
+p1055
+sg8
+I2014
+sg9
+S'Univ Chicago, Dept Med, Gen Internal Med Sect, 5841 S Maryland Ave MC 2007, Chicago, IL 60637 USA.'
+p1056
+sa(dp1057
+g2
+g3
+sg4
+S'ETHNICITY & DISEASE'
+p1058
+sg6
+S'Gallo, Linda C.'
+p1059
+sg8
+I2014
+sg9
+S'Inst Behav & Community Hlth, 9245 Sky Pk Court Suite 105, San Diego, CA 92123 USA.'
+p1060
+sa(dp1061
+g2
+S'Henry Ford Hospital'
+p1062
+sg4
+S'ETHNICITY & DISEASE'
+p1063
+sg6
+S'Ezell, Jerel M.'
+p1064
+sg8
+I2014
+sg9
+S'Henry Ford Hosp, Dept Publ Hlth Sci, 1 Ford Pl,5C, Detroit, MI 48202 USA.'
+p1065
+sa(dp1066
+g2
+S'Emory University'
+p1067
+sg4
+S'ETHNICITY & DISEASE'
+p1068
+sg6
+S'Chavan, Saurabh'
+p1069
+sg8
+I2014
+sg9
+S'Emory Univ, Rollins Sch Publ Hlth, Dept Epidemiol, 1518 Clifton Rd NE, Atlanta, GA 30322 USA.'
+p1070
+sa(dp1071
+g2
+g3
+sg4
+S'AIDS'
+p1072
+sg6
+S'Oldenburg, Catherine E.'
+p1073
+sg8
+I2014
+sg9
+S'677 Huntington Ave,9th Floor, Boston, MA 02115 USA.'
+p1074
+sa(dp1075
+g2
+S'Harvard University'
+p1076
+sg4
+S'SPRINGERPLUS'
+p1077
+sg6
+S'Mair, Patrick'
+p1078
+sg8
+I2014
+sg9
+S'Harvard Univ, Dept Psychol WJH 968, 33 Kirkland St, Cambridge, MA 02138 USA.'
+p1079
+sa(dp1080
+g2
+S'NIH National Institute on Aging (NIA);National Institutes of Health (NIH) - USA'
+p1081
+sg4
+S'PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF AMERICA'
+p1082
+sg6
+S'Mattson, Mark P.'
+p1083
+sg8
+I2014
+sg9
+S'NIA, Lab Neurosci, Baltimore, MD 21224 USA.'
+p1084
+sa(dp1085
+g2
+S'University of Missouri Columbia;University of Missouri System'
+p1086
+sg4
+S'PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF AMERICA'
+p1087
+sg6
+S'Macfarlan, Shane J.'
+p1088
+sg8
+I2014
+sg9
+S'Univ Missouri, Dept Anthropol, Columbia, MO 65211 USA.'
+p1089
+sa(dp1090
+g2
+S'University of Colorado Boulder;University of Colorado System'
+p1091
+sg4
+S'PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF AMERICA'
+p1092
+sg6
+S"O'Loughlin, John"
+p1093
+sg8
+I2014
+sg9
+S'Univ Colorado, Inst Behav Sci, Boulder, CO 80309 USA.'
+p1094
+sa(dp1095
+g2
+S'Georgia Institute of Technology;University System of Georgia'
+p1096
+sg4
+S'PLOS ONE'
+p1097
+sg6
+S'Eisenstein, Jacob'
+p1098
+sg8
+I2014
+sg9
+S'Georgia Inst Technol, Sch Interact Comp, Atlanta, GA 30332 USA.'
+p1099
+sa(dp1100
+g2
+S'Johns Hopkins University'
+p1101
+sg4
+S'GENOME MEDICINE'
+p1102
+sg6
+S'Geller, Gail'
+p1103
+sg8
+I2014
+sg9
+S'Johns Hopkins Univ, Berman Inst Bioeth, Baltimore, MD 21205 USA.'
+p1104
+sa(dp1105
+g2
+S'University of California Los Angeles;University of California System'
+p1106
+sg4
+S'PLOS ONE'
+p1107
+sg6
+S'Thurman, Steven M.'
+p1108
+sg8
+I2014
+sg9
+S'Univ Calif Los Angeles, Dept Psychol, Los Angeles, CA 90095 USA.'
+p1109
+sa(dp1110
+g2
+S'Harvard University'
+p1111
+sg4
+S'PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF AMERICA'
+p1112
+sg6
+S'Hilbe, Christian'
+p1113
+sg8
+I2014
+sg9
+S'Harvard Univ, Program Evolutionary Dynam, Dept Math, Cambridge, MA 02138 USA.'
+p1114
+sa(dp1115
+g2
+S'Cancer Prevention Institute of California'
+p1116
+sg4
+S'CANCER'
+p1117
+sg6
+S'Tao, Li'
+p1118
+sg8
+I2014
+sg9
+S'Canc Prevent Inst Calif, 2201 Walnut Ave,Suite 300, Fremont, CA 94538 USA.'
+p1119
+sa(dp1120
+g2
+S'Harvard University'
+p1121
+sg4
+S'NEW ENGLAND JOURNAL OF MEDICINE'
+p1122
+sg6
+S'Blendon, Robert J.'
+p1123
+sg8
+I2014
+sg9
+S'Harvard Univ, Sch Publ Hlth, 665 Huntington Ave, Boston, MA 02115 USA.'
+p1124
+sa(dp1125
+g2
+S'University System of Maryland;University of Maryland College Park'
+p1126
+sg4
+S'PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF AMERICA'
+p1127
+sg6
+S'Moran, Emilio F.'
+p1128
+sg8
+I2014
+sg9
+S'Univ Maryland, Dept Family Sci, College Pk, MD 20742 USA.'
+p1129
+sa(dp1130
+g2
+g3
+sg4
+S'PLOS ONE'
+p1131
+sg6
+S'Levine, Robert S.'
+p1132
+sg8
+I2014
+sg9
+S'Meharry Med Coll, Dept Family & Community Med, Nashville, TN 37208 USA.'
+p1133
+sa(dp1134
+g2
+S'Michigan State University'
+p1135
+sg4
+S'AMERICAN JOURNAL OF SOCIOLOGY'
+p1136
+sg6
+S'Menchik, Daniel A.'
+p1137
+sg8
+I2014
+sg9
+S'Michigan State Univ, Dept Sociol, Lyman Briggs Coll, 919 East Shaw Lane,Room E-35, E Lansing, MI 48825 USA.'
+p1138
+sa(dp1139
+g2
+g3
+sg4
+S'JOVE-JOURNAL OF VISUALIZED EXPERIMENTS'
+p1140
+sg6
+S'Themanson, Jason R.'
+p1141
+sg8
+I2014
+sg9
+S'Illinois Wesleyan Univ, Dept Psychol, Bloomington, IL USA.'
+p1142
+sa(dp1143
+g2
+S'Penn State University;Pennsylvania Commonwealth System of Higher Education (PCSHE)'
+p1144
+sg4
+S'EVOLUTIONARY ANTHROPOLOGY'
+p1145
+sg6
+S'Weiss, Ken'
+p1146
+sg8
+I2014
+sg9
+S'Penn State Univ, University Pk, PA 16802 USA.'
+p1147
+sa(dp1148
+g2
+S"Ohio State University;Research Institute at Nationwide Children's Hospital"
+p1149
+sg4
+S'JOURNAL OF ATHLETIC TRAINING'
+p1150
+sg6
+S'Yang, Jingzhen'
+p1151
+sg8
+I2014
+sg9
+S'Ohio State Univ, Coll Med, Dept Pediat, Res Inst,Nationwide Childrens Hosp, 700 Childrens Dr,RB3-WB5403, Columbus, OH 43205 USA.'
+p1152
+sa(dp1153
+g2
+S'Colorado State University'
+p1154
+sg4
+S'CRITICAL SOCIOLOGY'
+p1155
+sg6
+S'Sbicca, Joshua'
+p1156
+sg8
+I2014
+sg9
+S'Colorado State Univ, B265 Clark Bldg, Ft Collins, CO 80523 USA.'
+p1157
+sa(dp1158
+g2
+S'University of Wisconsin Madison;University of Wisconsin System'
+p1159
+sg4
+S'CRITICAL SOCIOLOGY'
+p1160
+sg6
+S'Dinces, Sean'
+p1161
+sg8
+I2014
+sg9
+S'Univ Wisconsin, Dept Hist, 5008 Mosse Humanities Bldg,455 N Pk St, Madison, WI 53706 USA.'
+p1162
+sa(dp1163
+g2
+g3
+sg4
+S'AMERICAN JOURNAL OF PUBLIC HEALTH'
+p1164
+sg6
+S'Kucik, James E.'
+p1165
+sg8
+I2014
+sg9
+S'1600 Clifton Rd,MS E-86, Atlanta, GA 30333 USA.'
+p1166
+sa(dp1167
+g2
+S'Harvard University'
+p1168
+sg4
+S'AMERICAN JOURNAL OF PUBLIC HEALTH'
+p1169
+sg6
+S'Pabayo, Roman'
+p1170
+sg8
+I2014
+sg9
+S'Harvard Univ, Sch Publ Hlth, 677 Huntington Ave, Boston, MA 02215 USA.'
+p1171
+sa(dp1172
+g2
+S'Boston University'
+p1173
+sg4
+S'CONTEMPORARY CLINICAL TRIALS'
+p1174
+sg6
+S'Quintiliani, Lisa M.'
+p1175
+sg8
+I2014
+sg9
+S'Boston Univ, Sch Med, MISU, 801 Massachusetts Ave,Crosstown Ctr,2nd Floor, Boston, MA 02118 USA.'
+p1176
+sa(dp1177
+g2
+g3
+sg4
+S'CANCER DISCOVERY'
+p1178
+sg6
+S'Guinney, Justin'
+p1179
+sg8
+I2014
+sg9
+S'1100 Fairview Ave North, Seattle, WA 98109 USA.'
+p1180
+sa(dp1181
+g2
+S'University of Iowa'
+p1182
+sg4
+S'DIABETES & METABOLISM'
+p1183
+sg6
+S'Ryckman, K. K.'
+p1184
+sg8
+I2014
+sg9
+S'Univ Iowa, Dept Epidemiol, 145 North Riverside Dr,S400 CPHB, Iowa City, IA 52242 USA.'
+p1185
+sa(dp1186
+g2
+S'Virginia Polytechnic Institute & State University'
+p1187
+sg4
+S'MOUNTAIN RESEARCH AND DEVELOPMENT'
+p1188
+sg6
+S'Copenheaver, Carolyn A.'
+p1189
+sg8
+I2014
+sg9
+S'Virginia Tech, Dept Forest Resources & Environm Conservat, Blacksburg, VA 24060 USA.'
+p1190
+sa(dp1191
+g2
+g3
+sg4
+S'JOURNAL OF APPLIED PHYSIOLOGY'
+p1192
+sg6
+S'DiVincenzo, Lola'
+p1193
+sg8
+I2014
+sg9
+S'Northeastern Ohio Univ Coll Med & Pharm, Dept Integrat Med Sci, 4209 State Route 44, Rootstown, OH USA.'
+p1194
+sa(dp1195
+g2
+g3
+sg4
+S'GYNECOLOGIC ONCOLOGY'
+p1196
+sg6
+S'Joslin, Charlotte E.'
+p1197
+sg8
+I2014
+sg9
+S'1855 W Taylor St,Ste 3-154, Chicago, IL 60612 USA.'
+p1198
+sa(dp1199
+g2
+S'University of Texas Dallas;University of Texas Southwestern Medical Center Dallas'
+p1200
+sg4
+S'ALCOHOLISM-CLINICAL AND EXPERIMENTAL RESEARCH'
+p1201
+sg6
+S'Mills, Britain A.'
+p1202
+sg8
+I2014
+sg9
+S'Univ Texas Dallas, Sch Publ Hlth Dallas, 6011 Harry Hines Blvd, Dallas, TX 75390 USA.'
+p1203
+sa(dp1204
+g2
+S'University of Mississippi;University of Mississippi Medical Center'
+p1205
+sg4
+S'AMERICAN JOURNAL OF MEDICINE'
+p1206
+sg6
+S'deShazo, Richard D.'
+p1207
+sg8
+I2014
+sg9
+S'Univ Mississippi, Med Ctr, Dept Med, Jackson, MS 39216 USA.'
+p1208
+sa(dp1209
+g2
+g3
+sg4
+S'BIRTH DEFECTS RESEARCH PART A-CLINICAL AND MOLECULAR TERATOLOGY'
+p1210
+sg6
+S'Hoyt, Adrienne T.'
+p1211
+sg8
+I2014
+sg9
+S'Texas Dept State Hlth Serv, Birth Defects Epidemiol & Surveillance Branch, 1100 W 49th St,MAILCODE 1964,POB 149347, Austin, TX 78714 USA.'
+p1212
+sa(dp1213
+g2
+S'University of Louisville'
+p1214
+sg4
+S'ECOLOGICAL ECONOMICS'
+p1215
+sg6
+S'Fredriksson, Per G.'
+p1216
+sg8
+I2014
+sg9
+S'Univ Louisville, Dept Econ, Louisville, KY 40292 USA.'
+p1217
+sa(dp1218
+g2
+S'University of Massachusetts System;University of Massachusetts Amherst'
+p1219
+sg4
+S'ECOLOGICAL ECONOMICS'
+p1220
+sg6
+S'Zwickl, Klara'
+p1221
+sg8
+I2014
+sg9
+S'Univ Massachusetts, Dept Econ, Amherst, MA 01003 USA.'
+p1222
+sa(dp1223
+g2
+S'North Carolina State University;University of North Carolina'
+p1224
+sg4
+S'BIOSOCIETIES'
+p1225
+sg6
+S'Vogel, Kathleen M.'
+p1226
+sg8
+I2014
+sg9
+S'N Carolina State Univ, Dept Polit Sci, Room 107E,1911 Bldg,Campus Box 7107, Raleigh, NC 27695 USA.'
+p1227
+sa(dp1228
+g2
+S'Mississippi State University'
+p1229
+sg4
+S'DEVELOPMENTAL PSYCHOBIOLOGY'
+p1230
+sg6
+S'Staton, Lori'
+p1231
+sg8
+I2014
+sg9
+S'Mississippi State Univ, Sch Human Sci, 208 Lloyd Ricks Watson, Mississippi State, MS 39762 USA.'
+p1232
+sa(dp1233
+g2
+S'University of Southern California'
+p1234
+sg4
+S'DRUG AND ALCOHOL DEPENDENCE'
+p1235
+sg6
+S'Salvy, Sarah-Jeanne'
+p1236
+sg8
+I2014
+sg9
+S'Univ So Calif, 1540 Alcazar St, Los Angeles, CA 90033 USA.'
+p1237
+sa(dp1238
+g2
+S'Florida State University System;University of Central Florida'
+p1239
+sg4
+S'DRUG AND ALCOHOL DEPENDENCE'
+p1240
+sg6
+S'Ford, Jason A.'
+p1241
+sg8
+I2014
+sg9
+S'Univ Cent Florida, Dept Sociol, Orlando, FL 32816 USA.'
+p1242
+sa(dp1243
+g2
+S'Pennsylvania Commonwealth System of Higher Education (PCSHE);University of Pittsburgh'
+p1244
+sg4
+S'JOURNAL OF OCCUPATIONAL AND ENVIRONMENTAL MEDICINE'
+p1245
+sg6
+S'Brink, Luann L.'
+p1246
+sg8
+I2014
+sg9
+S'Univ Pittsburgh, Grad Sch Publ Hlth, 130 DeSoto St,A526 Crabtree, Pittsburgh, PA 15261 USA.'
+p1247
+sa(dp1248
+g2
+S'Virginia Polytechnic Institute & State University'
+p1249
+sg4
+S'PREVENTIVE MEDICINE'
+p1250
+sg6
+S'Bickel, W. K.'
+p1251
+sg8
+I2014
+sg9
+S'Virginia Tech, Virginia Tech Carilion Res Inst, Addict Recovery Res Ctr, 2 Riverside Circle, Roanoke, VA 24016 USA.'
+p1252
+sa(dp1253
+g2
+S'University of Vermont'
+p1254
+sg4
+S'PREVENTIVE MEDICINE'
+p1255
+sg6
+S'Harvey, Jean R.'
+p1256
+sg8
+I2014
+sg9
+S'Univ Vermont, Dept Nutr & Food Sci, 250 Carrigan Wing,109 Carrigan Dr, Burlington, VT 05405 USA.'
+p1257
+sa(dp1258
+g2
+S'Memorial University Newfoundland'
+p1259
+sg4
+S'CANADIAN REVIEW OF SOCIOLOGY-REVUE CANADIENNE DE SOCIOLOGIE'
+p1260
+sg6
+S'Stanbridge, Karen'
+p1261
+sg8
+I2014
+sg9
+S'Mem Univ Newfoundland, Dept Sociol, St John, NF A1C 5S7, Canada.'
+p1262
+sa(dp1263
+g2
+S'University of Pennsylvania'
+p1264
+sg4
+S'BEHAVIOR THERAPY'
+p1265
+sg6
+S'Allred, Kelly M.'
+p1266
+sg8
+I2014
+sg9
+S'Univ Penn, Dept Psychol, 3720 Walnut St, Philadelphia, PA 19104 USA.'
+p1267
+sa(dp1268
+g2
+S'Indiana University Bloomington;Indiana University System'
+p1269
+sg4
+S'BRITISH JOURNAL OF PSYCHIATRY'
+p1270
+sg6
+S'Class, Quetzal A.'
+p1271
+sg8
+I2014
+sg9
+S'Indiana Univ, Dept Psychol & Brain Sci, 1101 East 10th St, Bloomington, IN 47405 USA.'
+p1272
+sa(dp1273
+g2
+S'Penn State University;Pennsylvania Commonwealth System of Higher Education (PCSHE)'
+p1274
+sg4
+S'CLINICAL INFECTIOUS DISEASES'
+p1275
+sg6
+S'Murray-Kolb, Laura E.'
+p1276
+sg8
+I2014
+sg9
+S'Penn State Univ, 219 Chandlee Lab, University Pk, PA 16802 USA.'
+p1277
+sa(dp1278
+g2
+S'University of Southern California'
+p1279
+sg4
+S'PEDIATRIC HEMATOLOGY AND ONCOLOGY'
+p1280
+sg6
+S'Khazal, Sajad'
+p1281
+sg8
+I2014
+sg9
+S'Univ So Calif, Dept Pediat, Keck Sch Med, Childrens Hosp Los Angeles, 4650 Sunset Blvd,MS 62, Los Angeles, CA 90027 USA.'
+p1282
+sa(dp1283
+g2
+S'Oregon University System;University of Oregon'
+p1284
+sg4
+S'AMERICAN JOURNAL OF HUMAN BIOLOGY'
+p1285
+sg6
+S'Gildner, Theresa E.'
+p1286
+sg8
+I2014
+sg9
+S'Univ Oregon, Dept Anthropol, Eugene, OR 97403 USA.'
+p1287
+sa(dp1288
+g2
+S'Centers for Disease Control & Prevention - USA'
+p1289
+sg4
+S'AMERICAN JOURNAL OF HYPERTENSION'
+p1290
+sg6
+S'Fang, Jing'
+p1291
+sg8
+I2014
+sg9
+S'Ctr Dis Control & Prevent, Div Heart Dis & Stroke Prevent, Natl Ctr Chron Dis Prevent & Hlth Promot, Atlanta, GA 30333 USA.'
+p1292
+sa(dp1293
+g2
+S'Emory University'
+p1294
+sg4
+S'ASIAN JOURNAL OF ANDROLOGY'
+p1295
+sg6
+S'Gerhard, Robert'
+p1296
+sg8
+I2014
+sg9
+S'Emory Univ, Sch Med, Dept Urol, Atlanta, GA 30322 USA.'
+p1297
+sa(dp1298
+g2
+S'University of St Thomas Minnesota'
+p1299
+sg4
+S'ENVIRONMENTAL MANAGEMENT'
+p1300
+sg6
+S'Martini, Nicholas F.'
+p1301
+sg8
+I2014
+sg9
+S'Univ St Thomas, Dept Polit Sci, Mail JRC 432,2115 Summit Ave, St Paul, MN 55105 USA.'
+p1302
+sa(dp1303
+g2
+S'University of Washington;University of Washington Seattle'
+p1304
+sg4
+S'JAMA PEDIATRICS'
+p1305
+sg6
+S'Trupin, Eric'
+p1306
+sg8
+I2014
+sg9
+S'Univ Washington, Sch Med, Dept Psychiat & Behav Sci, Div Publ Behav Hlth & Justice Policy, 2815 Eastlake Ave E,Ste 200, Seattle, WA 98102 USA.'
+p1307
+sa(dp1308
+g2
+S'University of Utah;Utah System of Higher Education'
+p1309
+sg4
+S'TRENDS IN ECOLOGY & EVOLUTION'
+p1310
+sg6
+S'Kramer, Karen L.'
+p1311
+sg8
+I2014
+sg9
+S'Univ Utah, Dept Anthropol, Salt Lake City, UT 84112 USA.'
+p1312
+sa(dp1313
+g2
+S'Brigham Young University'
+p1314
+sg4
+S'SYMBOLIC INTERACTION'
+p1315
+sg6
+S'Thompson, Gregory A.'
+p1316
+sg8
+I2014
+sg9
+S'Brigham Young Univ, Dept Anthropol, 883 Spencer W Kimball Tower, Provo, UT 84602 USA.'
+p1317
+sa(dp1318
+g2
+S'Harvard University'
+p1319
+sg4
+S'INTERNATIONAL JOURNAL OF EATING DISORDERS'
+p1320
+sg6
+S'Gerbasi, Margaret E.'
+p1321
+sg8
+I2014
+sg9
+S'Harvard Univ, Sch Med, Dept Global Hlth & Social Med, 641 Huntington Ave, Boston, MA 02115 USA.'
+p1322
+sa(dp1323
+g2
+S'Oregon Health & Science University;Oregon University System'
+p1324
+sg4
+S'JOURNAL OF GENERAL INTERNAL MEDICINE'
+p1325
+sg6
+S'Englander, Honora'
+p1326
+sg8
+I2014
+sg9
+S'Oregon Hlth & Sci Univ, Dept Med, 3181 SW Sam Jackson Pk Rd,BTE 119, Portland, OR 97239 USA.'
+p1327
+sa(dp1328
+g2
+S'Albert Einstein College of Medicine;Yeshiva University'
+p1329
+sg4
+S'JOURNAL OF THE AMERICAN SOCIETY OF NEPHROLOGY'
+p1330
+sg6
+S'Johns, Tanya S.'
+p1331
+sg8
+I2014
+sg9
+S'Montefiore Med Ctr, Albert Einstein Coll Med, Div Nephrol, 1300 Morris Pk Ave, Bronx, NY 10461 USA.'
+p1332
+sa(dp1333
+g2
+S'University of Houston;University of Houston Clear Lake;University of Houston System'
+p1334
+sg4
+S'SOCIOLOGICAL INQUIRY'
+p1335
+sg6
+S'Arney, Jennifer'
+p1336
+sg8
+I2014
+sg9
+S'Univ Houston Clear Lake, 2700 Bay Area Blvd MS 11, Houston, TX 77058 USA.'
+p1337
+sa(dp1338
+g2
+S'University of California San Diego;University of California System'
+p1339
+sg4
+S'THEORY AND SOCIETY'
+p1340
+sg6
+S'Rubio, Fernando Dominguez'
+p1341
+sg8
+I2014
+sg9
+S'Univ Calif San Diego, Dept Commun, 9500 Gilman Dr, San Diego, CA 92093 USA.'
+p1342
+sa(dp1343
+g2
+S'Santa Clara University'
+p1344
+sg4
+S'THEORY AND SOCIETY'
+p1345
+sg6
+S'Nichols, Laura'
+p1346
+sg8
+I2014
+sg9
+S'Santa Clara Univ, Dept Sociol, 500 El Camino Real, Santa Clara, CA 95053 USA.'
+p1347
+sa(dp1348
+g2
+S'University of Pennsylvania'
+p1349
+sg4
+S'THEORY AND SOCIETY'
+p1350
+sg6
+S'Collins, Randall'
+p1351
+sg8
+I2014
+sg9
+S'Univ Penn, Dept Sociol, 3718 Locust Walk, Philadelphia, PA 19104 USA.'
+p1352
+sa(dp1353
+g2
+S'University of California Los Angeles;University of California System'
+p1354
+sg4
+S'JOURNAL OF CHILD PSYCHOLOGY AND PSYCHIATRY'
+p1355
+sg6
+S'Dean, Michelle'
+p1356
+sg8
+I2014
+sg9
+S'Univ Calif Los Angeles, Semel Inst, NPI 68-229, Los Angeles, CA USA.'
+p1357
+sa(dp1358
+g2
+S'University of Michigan;University of Michigan System'
+p1359
+sg4
+S'JOURNAL OF EPIDEMIOLOGY AND COMMUNITY HEALTH'
+p1360
+sg6
+S'Kim, Eric S.'
+p1361
+sg8
+I2014
+sg9
+S'Univ Michigan, Dept Psychol, 530 Church St, Ann Arbor, MI 48109 USA.'
+p1362
+sa(dp1363
+g2
+S'Old Dominion University'
+p1364
+sg4
+S'JOURNAL OF EPIDEMIOLOGY AND COMMUNITY HEALTH'
+p1365
+sg6
+S'Zhang, Qi'
+p1366
+sg8
+I2014
+sg9
+S'Old Dominion Univ, 3138 Hlth Sci Bldg, Norfolk, VA 23529 USA.'
+p1367
+sa(dp1368
+g2
+S'California State University System;Sonoma State University'
+p1369
+sg4
+S'QUALITATIVE INQUIRY'
+p1370
+sg6
+S'Charmaz, Kathy'
+p1371
+sg8
+I2014
+sg9
+S'Sonoma State Univ, Dept Sociol, 1801 E Cotati Ave, Rohnert Pk, CA 94928 USA.'
+p1372
+sa(dp1373
+g2
+g3
+sg4
+S'RESEARCH IN DEVELOPMENTAL DISABILITIES'
+p1374
+sg6
+S'Walker, Gabriela'
+p1375
+sg8
+I2014
+sg9
+S'238 Dwight Schar Coll Educ, 401 Coll Ave, Ashland, OH 44805 USA.'
+p1376
+sa(dp1377
+g2
+S'University of Michigan;University of Michigan System'
+p1378
+sg4
+S'PSYCHIATRY RESEARCH'
+p1379
+sg6
+S'Greenberg, Sarah'
+p1380
+sg8
+I2014
+sg9
+S'Univ Michigan, Dept Psychiat, 4250 Plymouth Rd, Ann Arbor, MI 48105 USA.'
+p1381
+sa(dp1382
+g2
+S'Public Health Institute - Oakland'
+p1383
+sg4
+S'JOURNAL OF PSYCHOACTIVE DRUGS'
+p1384
+sg6
+S'Polcin, Douglas'
+p1385
+sg8
+I2014
+sg9
+S'Inst Publ Hlth, Alcohol Res Grp, 6475 Christie Ave,Suite 400, Emeryville, CA 94608 USA.'
+p1386
+sa(dp1387
+g2
+S'Dartmouth College'
+p1388
+sg4
+S'PLOS ONE'
+p1389
+sg6
+S'Naslund, John A.'
+p1390
+sg8
+I2014
+sg9
+S'Dartmouth Coll, Dartmouth Inst Hlth Policy & Clin Practice, Hanover, NH 03755 USA.'
+p1391
+sa(dp1392
+g2
+S'University of Chicago'
+p1393
+sg4
+S'NEUROIMAGE'
+p1394
+sg6
+S'Cloutier, Jasmin'
+p1395
+sg8
+I2014
+sg9
+S'Univ Chicago, Dept Psychol, 5848 S Univ Ave, Chicago, IL 60637 USA.'
+p1396
+sa(dp1397
+g2
+S'Oregon University System;University of Oregon'
+p1398
+sg4
+S'JOURNAL OF HYDROLOGY'
+p1399
+sg6
+S'Carey, Mark'
+p1400
+sg8
+I2014
+sg9
+S'Univ Oregon, Robert D Clark Honors Coll, Eugene, OR 97403 USA.'
+p1401
+sa(dp1402
+g2
+S'Michigan State University'
+p1403
+sg4
+S'JOURNAL OF HYDROLOGY'
+p1404
+sg6
+S'Sanchez, Georgina M.'
+p1405
+sg8
+I2014
+sg9
+S'Michigan State Univ, Dept Biosyst & Agr Engn, Farrall Agr Engn Hall,524 S Shaw Lane,Room 225, E Lansing, MI 48824 USA.'
+p1406
+sa(dp1407
+g2
+S'University of California Berkeley;University of California System'
+p1408
+sg4
+S'SCIENCE'
+p1409
+sg6
+S'Lee, Ronald'
+p1410
+sg8
+I2014
+sg9
+S'Univ Calif Berkeley, Dept Demog, 2232 Piedmont Ave, Berkeley, CA 94720 USA.'
+p1411
+sa(dp1412
+g2
+g3
+sg4
+S'SCIENCE'
+p1413
+sg6
+S'Gerland, Patrick'
+p1414
+sg8
+I2014
+sg9
+S'UN, Dept Econ & Social Affairs, Populat Div, New York, NY 10017 USA.'
+p1415
+sa(dp1416
+g2
+g3
+sg4
+S'AMERICAN JOURNAL OF INFECTION CONTROL'
+p1417
+sg6
+S'Fakih, Mohamad G.'
+p1418
+sg8
+I2014
+sg9
+S'St John Hosp & Med Ctr, Infect Prevent & Control, 19251 Mack Ave,Ste 190, Grosse Pointe Woods, MI 48236 USA.'
+p1419
+sa(dp1420
+g2
+S'Johns Hopkins University'
+p1421
+sg4
+S'EASTERN MEDITERRANEAN HEALTH JOURNAL'
+p1422
+sg6
+S'Bachani, Abdulgafoor M.'
+p1423
+sg8
+I2014
+sg9
+S'Johns Hopkins Bloomberg Sch Publ Hlth, Dept Int Hlth, Johns Hopkins Int Injury Res Unit, Baltimore, MD 21205 USA.'
+p1424
+sa(dp1425
+g2
+S'Loyola University Chicago'
+p1426
+sg4
+S'AGING AND DISEASE'
+p1427
+sg6
+S'Saban, Karen L.'
+p1428
+sg8
+I2014
+sg9
+S'Loyola Univ, Marcella Niehoff Sch Nursing, Maywood, IL 60153 USA.'
+p1429
+sa(dp1430
+g2
+S'Harvard University'
+p1431
+sg4
+S'JAMA INTERNAL MEDICINE'
+p1432
+sg6
+S'Wang, Dong D.'
+p1433
+sg8
+I2014
+sg9
+S'Harvard Univ, Sch Publ Hlth, Dept Nutr, 651 Huntington Ave,Bldg 2,Room 311, Boston, MA 02115 USA.'
+p1434
+sa(dp1435
+g2
+S'University of Arizona'
+p1436
+sg4
+S'POETICS'
+p1437
+sg6
+S'Koppman, Sharon'
+p1438
+sg8
+I2014
+sg9
+S'Univ Arizona, Sch Sociol, POB 210027, Tucson, AZ 85721 USA.'
+p1439
+sa(dp1440
+g2
+S'Duke University'
+p1441
+sg4
+S'POETICS'
+p1442
+sg6
+S'Miles, Andrew'
+p1443
+sg8
+I2014
+sg9
+S'Duke Univ, Dept Sociol, Durham, NC 27706 USA.'
+p1444
+sa(dp1445
+g2
+S'University of California San Francisco;University of California System'
+p1446
+sg4
+S'JAMA PEDIATRICS'
+p1447
+sg6
+S'Flaherman, Valerie J.'
+p1448
+sg8
+I2014
+sg9
+S'Univ Calif San Francisco, 3333 Calif St,Box 0503, San Francisco, CA 94143 USA.'
+p1449
+sa(dp1450
+g2
+S'Harvard University'
+p1451
+sg4
+S'INTERNATIONAL JOURNAL OF EPIDEMIOLOGY'
+p1452
+sg6
+S'Berkman, Lisa F.'
+p1453
+sg8
+I2014
+sg9
+S'Harvard Univ, Harvard Ctr Populat & Dev Studies, 9 Bow St, Cambridge, MA 02138 USA.'
+p1454
+sa.
